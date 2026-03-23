@@ -237,7 +237,7 @@ canvas#canvas {
         <button data-mode="education">Educaci&oacute;n</button>
         <button data-mode="formality">Formalidad</button>
         <button data-mode="health_protection">Protecci&oacute;n en Salud</button>
-        <button data-mode="health_insurance">Seguro de salud</button>
+        <button data-mode="health_insurance">Seguridad social</button>
         <button data-mode="exposure">Exposici&oacute;n IA</button>
       </div>
     </div>
@@ -379,7 +379,7 @@ function tileSubInfo(r) {
            (r.jobs ? " \u00b7 " + formatNumber(r.jobs) + " empleos" : "");
   }
   if (colorMode === "health_insurance") {
-    return (r.health_insurance_rate != null ? r.health_insurance_rate.toFixed(0) + "% con seguro" : "") +
+    return (r.health_insurance_rate != null ? r.health_insurance_rate.toFixed(0) + "% IMSS/ISSSTE" : "") +
            (r.jobs ? " \u00b7 " + formatNumber(r.jobs) + " empleos" : "");
   }
   if (colorMode === "health_protection") {
@@ -570,9 +570,9 @@ function tooltipHighlight(d) {
       `<div style="height:100%;width:${v}%;background:${color};border-radius:2px;"></div></div>`;
   } else if (colorMode === "health_insurance") {
     const v = d.health_insurance_rate;
-    if (v == null) return '<span style="color:var(--text-secondary)">Sin datos de seguro de salud</span>';
+    if (v == null) return '<span style="color:var(--text-secondary)">Sin datos de seguridad social</span>';
     const color = healthInsuranceColor(v, 1);
-    return `<span style="color:${color};font-weight:600;">Seguro de salud: ${v.toFixed(0)}%</span>` +
+    return `<span style="color:${color};font-weight:600;">Seguridad social: ${v.toFixed(0)}%</span>` +
       `<div style="margin-top:3px;height:4px;background:rgba(255,255,255,0.08);border-radius:2px;">` +
       `<div style="height:100%;width:${v}%;background:${color};border-radius:2px;"></div></div>`;
   } else if (colorMode === "health_protection") {
@@ -605,7 +605,7 @@ function showTooltip(d, mx, my) {
     <span class="label">% con licenciatura+</span><span class="value">${d.pct_professional != null ? d.pct_professional.toFixed(0) + '%' : '\u2014'}</span>
     <span class="label">Formalidad</span><span class="value">${d.formality_rate != null ? d.formality_rate.toFixed(0) + '%' : '\u2014'}</span>
     <span class="label">Protecci\u00f3n en Salud</span><span class="value">${d.health_protection_index != null ? d.health_protection_index.toFixed(0) + '/100' : '\u2014'}</span>
-    <span class="label">Seguro de salud</span><span class="value">${d.health_insurance_rate != null ? d.health_insurance_rate.toFixed(0) + '%' : '\u2014'}</span>
+    <span class="label">Seguridad social</span><span class="value">${d.health_insurance_rate != null ? d.health_insurance_rate.toFixed(0) + '%' : '\u2014'}</span>
     <span class="label">Horas/semana</span><span class="value">${d.hours_weekly != null ? d.hours_weekly.toFixed(0) : '\u2014'}</span>
     <span class="label">Exposici\u00f3n IA</span><span class="value">${d.exposure != null ? d.exposure + '/10' : '\u2014'}</span>`;
   tt.querySelector(".tt-stats").innerHTML = statsHTML;
@@ -875,20 +875,20 @@ function updateHealthInsuranceStats(totalJobs) {
   document.getElementById("block4").innerHTML = `<h3>Niveles de cobertura</h3><div class="tier-bar">${renderTiers(tiers, totalJobs)}</div>`;
 
   const byEdu = weightedAvgByGroups(EDU_GROUPS, (d, g) => g.match.includes(d.education), d => d.health_insurance_rate);
-  document.getElementById("block5").innerHTML = `<h3>Seguro por educaci\u00f3n</h3><div class="hbar-chart">${renderHbars(byEdu.map(g => ({
+  document.getElementById("block5").innerHTML = `<h3>Seg. social por educaci\u00f3n</h3><div class="hbar-chart">${renderHbars(byEdu.map(g => ({
     label: g.label, val: g.avg.toFixed(0) + "%",
     pct: g.avg, color: healthInsuranceColor(g.avg, 0.8)
   })))}</div>`;
 
   const byPay = weightedAvgByGroups(PAY_BANDS, (d, g) => d.pay_monthly != null && d.pay_monthly >= g.min && d.pay_monthly < g.max, d => d.health_insurance_rate);
-  document.getElementById("block6").innerHTML = `<h3>Seguro por ingreso</h3><div class="hbar-chart">${renderHbars(byPay.map(g => ({
+  document.getElementById("block6").innerHTML = `<h3>Seg. social por ingreso</h3><div class="hbar-chart">${renderHbars(byPay.map(g => ({
     label: g.label, val: g.avg.toFixed(0) + "%",
     pct: g.avg, color: healthInsuranceColor(g.avg, 0.8)
   })))}</div>`;
 
   let uninsuredJobs = 0;
   for (const d of data) { if (d.health_insurance_rate != null && d.health_insurance_rate < 50 && d.jobs) uninsuredJobs += d.jobs; }
-  document.getElementById("block7").innerHTML = `<h3>Sin seguro de salud</h3>
+  document.getElementById("block7").innerHTML = `<h3>Sin cobertura de salud</h3>
     <div class="stat-big" style="color:${healthInsuranceColor(15, 1)}">${(uninsuredJobs / 1e6).toFixed(1)}M</div>
     <div class="stat-label">en ocupaciones <50% cobertura</div>`;
 
@@ -1031,7 +1031,7 @@ const LEGEND_CONFIG = {
   pay:               { low: "$2K", high: "$50K" },
   education:         { low: "Sin escolaridad", high: "Doctorado" },
   formality:         { low: "Informal", high: "Formal" },
-  health_insurance:  { low: "Sin seguro", high: "Con seguro" },
+  health_insurance:  { low: "Sin cobertura", high: "Con cobertura" },
   health_protection: { low: "Desprotegido", high: "Protegido" },
 };
 

@@ -12,7 +12,7 @@ Visualización interactiva del mercado laboral mexicano como treemap, inspirado 
 | **Educación** | Nivel educativo más frecuente por ocupación | Sin escolaridad → Doctorado | Variable `cs_p13_1` de ENOE, moda ponderada |
 | **Formalidad** | % de trabajadores con empleo formal | 0%–100% | Variable `emp_ppal` de ENOE (1=informal, 2=formal) |
 | **Protección en Salud** | Índice compuesto de acceso a salud y prestaciones | 0–100 | Variable `medica5c` de ENOE (ver metodología abajo) |
-| **Seguro de salud** | % con acceso a instituciones de salud | 0%–100% | Variable `seg_soc` de ENOE (medida binaria) |
+| **Seguridad social** | % con acceso a instituciones de salud | 0%–100% | Variable `seg_soc` de ENOE (medida binaria) |
 | **Exposición IA** | Estimación de impacto de IA por ocupación | 0–10 | Scoring con Claude Haiku sobre cada ocupación SINCO |
 
 ### Protección en Salud (índice compuesto)
