@@ -39,7 +39,7 @@ Más informativo que la medida binaria de "Seguro de salud" porque distingue ent
 ## Inicio rápido
 
 ```bash
-# Ver la visualización (ya construida)
+# Ver la visualización localmente
 cd site && python3 -m http.server 8765
 # Abrir http://localhost:8765
 
@@ -49,6 +49,24 @@ pip install anthropic
 python score.py
 python build_site_data.py
 ```
+
+## Deploy
+
+El sitio está en **Vercel** en [empleos.sebastian.mx](https://empleos.sebastian.mx). Se hace deploy automático con cada push a `main`:
+
+```bash
+git push  # Vercel detecta el push y redeploya automáticamente
+```
+
+Si cambias los datos (re-procesas ENOE, re-corres scoring, etc.):
+```bash
+python process_enoe.py          # regenera output/
+python build_site_data.py       # regenera site/data.json
+git add -A && git commit -m "Update data"
+git push                        # live en ~30 segundos
+```
+
+Configuración Vercel: `vercel.json` apunta a `site/` como output directory. DNS: CNAME `empleos` → `cname.vercel-dns.com`.
 
 ## Pipeline
 
