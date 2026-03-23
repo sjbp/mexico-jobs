@@ -1,0 +1,13 @@
+{
+  "buildCommand": null,
+  "outputDirectory": "site",
+  "framework": null,
+  "headers": [
+    {
+      "source": "/data.json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=86400" }
+      ]
+    }
+  ]
+}

@@ -156,6 +156,8 @@ def main():
         "hours_worked": [],
         "health_access_count": 0,
         "health_no_access_count": 0,
+        "health_protection_score_sum": 0,  # weighted sum of per-person scores
+        "health_protection_weight": 0,     # total weight for health scoring
     })
 
     sdem_count = 0
@@ -236,6 +238,15 @@ def main():
             elif seg_soc == "2":
                 occ["health_no_access_count"] += weight
 
+            # Health Protection Index (medica5c-based composite score)
+            # medica5c: 1=no benefits, 2=health only, 3=health+other, 4=other but no health, 5=NE
+            # Scores: 3→100, 2→70, 4→20, 1→0
+            medica5c = row.get("medica5c", "").strip()
+            health_scores = {"3": 100, "2": 70, "4": 20, "1": 0}
+            if medica5c in health_scores:
+                occ["health_protection_score_sum"] += health_scores[medica5c] * weight
+                occ["health_protection_weight"] += weight
+
     print(f"  {sdem_count} SDEM records, {matched} matched to occupations")
 
     # Compute statistics per occupation
@@ -287,6 +298,12 @@ def main():
             occ["health_access_count"] / total_health * 100 if total_health > 0 else 0
         )
 
+        # Health Protection Index (0-100 composite score)
+        health_protection_index = (
+            occ["health_protection_score_sum"] / occ["health_protection_weight"]
+            if occ["health_protection_weight"] > 0 else 0
+        )
+
         # Slug for the occupation
         slug = f"sinco-{code}"
 
@@ -305,6 +322,7 @@ def main():
             "pct_professional": round(pct_professional, 1),
             "formality_rate": round(formality_rate, 1),
             "health_insurance_rate": round(health_rate, 1),
+            "health_protection_index": round(health_protection_index, 1),
         })
 
     # Sort by employment

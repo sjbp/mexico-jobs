@@ -49,6 +49,7 @@ def main():
             "pct_professional": occ.get("pct_professional", 0),
             "formality_rate": occ.get("formality_rate", 0),
             "health_insurance_rate": occ.get("health_insurance_rate", 0),
+            "health_protection_index": occ.get("health_protection_index", 0),
             "hours_weekly": occ.get("median_hours_weekly"),
             "exposure": score.get("exposure"),
             "exposure_rationale": score.get("rationale"),

@@ -13,7 +13,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 18.4,
     "formality_rate": 36.4,
-    "health_insurance_rate": 36.8
+    "health_insurance_rate": 36.8,
+    "health_protection_index": 40.1
   },
   {
     "sinco_code": "4111",
@@ -29,7 +30,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 16.7,
     "formality_rate": 25.7,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "9111",
@@ -45,7 +47,8 @@
     "education_mode": "Primaria",
     "pct_professional": 2.2,
     "formality_rate": 4.7,
-    "health_insurance_rate": 4.6
+    "health_insurance_rate": 4.6,
+    "health_protection_index": 5.5
   },
   {
     "sinco_code": "9611",
@@ -61,7 +64,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 1.6,
     "formality_rate": 4.2,
-    "health_insurance_rate": 4.3
+    "health_insurance_rate": 4.3,
+    "health_protection_index": 10.7
   },
   {
     "sinco_code": "6111",
@@ -77,7 +81,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.4,
     "formality_rate": 9.3,
-    "health_insurance_rate": 0.6
+    "health_insurance_rate": 0.6,
+    "health_protection_index": 0.6
   },
   {
     "sinco_code": "7121",
@@ -93,7 +98,8 @@
     "education_mode": "Primaria",
     "pct_professional": 2.6,
     "formality_rate": 8.9,
-    "health_insurance_rate": 8.3
+    "health_insurance_rate": 8.3,
+    "health_protection_index": 9.0
   },
   {
     "sinco_code": "9221",
@@ -109,7 +115,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 2.3,
     "formality_rate": 6.3,
-    "health_insurance_rate": 6.3
+    "health_insurance_rate": 6.3,
+    "health_protection_index": 7.6
   },
   {
     "sinco_code": "8341",
@@ -125,7 +132,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.8,
     "formality_rate": 63.4,
-    "health_insurance_rate": 62.3
+    "health_insurance_rate": 62.3,
+    "health_protection_index": 63.9
   },
   {
     "sinco_code": "8342",
@@ -141,7 +149,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 12.3,
     "formality_rate": 28.6,
-    "health_insurance_rate": 16.2
+    "health_insurance_rate": 16.2,
+    "health_protection_index": 17.4
   },
   {
     "sinco_code": "9621",
@@ -157,7 +166,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.5,
     "formality_rate": 68.2,
-    "health_insurance_rate": 68.9
+    "health_insurance_rate": 68.9,
+    "health_protection_index": 70.3
   },
   {
     "sinco_code": "3115",
@@ -173,7 +183,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 64.2,
     "formality_rate": 83.6,
-    "health_insurance_rate": 84.2
+    "health_insurance_rate": 84.2,
+    "health_protection_index": 84.2
   },
   {
     "sinco_code": "5114",
@@ -189,7 +200,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 12.3,
     "formality_rate": 17.5,
-    "health_insurance_rate": 9.4
+    "health_insurance_rate": 9.4,
+    "health_protection_index": 11.5
   },
   {
     "sinco_code": "7513",
@@ -205,7 +217,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.6,
     "formality_rate": 12.8,
-    "health_insurance_rate": 8.1
+    "health_insurance_rate": 8.1,
+    "health_protection_index": 10.3
   },
   {
     "sinco_code": "5313",
@@ -221,7 +234,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 11.0,
     "formality_rate": 79.5,
-    "health_insurance_rate": 80.3
+    "health_insurance_rate": 80.3,
+    "health_protection_index": 81.1
   },
   {
     "sinco_code": "9521",
@@ -237,7 +251,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.8,
     "formality_rate": 1.7,
-    "health_insurance_rate": 0.3
+    "health_insurance_rate": 0.3,
+    "health_protection_index": 1.0
   },
   {
     "sinco_code": "3121",
@@ -253,7 +268,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 26.7,
     "formality_rate": 70.4,
-    "health_insurance_rate": 70.8
+    "health_insurance_rate": 70.8,
+    "health_protection_index": 72.9
   },
   {
     "sinco_code": "2332",
@@ -269,7 +285,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 93.2,
     "formality_rate": 91.6,
-    "health_insurance_rate": 92.3
+    "health_insurance_rate": 92.3,
+    "health_protection_index": 92.6
   },
   {
     "sinco_code": "9512",
@@ -285,7 +302,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 12.4,
     "formality_rate": 3.6,
-    "health_insurance_rate": 0.1
+    "health_insurance_rate": 0.1,
+    "health_protection_index": 0.6
   },
   {
     "sinco_code": "9411",
@@ -301,7 +319,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 11.2,
     "formality_rate": 12.9,
-    "health_insurance_rate": 12.7
+    "health_insurance_rate": 12.7,
+    "health_protection_index": 16.1
   },
   {
     "sinco_code": "3132",
@@ -317,7 +336,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 19.6,
     "formality_rate": 87.5,
-    "health_insurance_rate": 88.6
+    "health_insurance_rate": 88.6,
+    "health_protection_index": 88.8
   },
   {
     "sinco_code": "5116",
@@ -333,7 +353,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 14.3,
     "formality_rate": 32.3,
-    "health_insurance_rate": 32.3
+    "health_insurance_rate": 32.3,
+    "health_protection_index": 37.1
   },
   {
     "sinco_code": "2632",
@@ -349,7 +370,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 11.2,
     "formality_rate": 37.7,
-    "health_insurance_rate": 24.2
+    "health_insurance_rate": 24.2,
+    "health_protection_index": 25.9
   },
   {
     "sinco_code": "9231",
@@ -365,7 +387,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 11.5,
     "formality_rate": 35.7,
-    "health_insurance_rate": 35.9
+    "health_insurance_rate": 35.9,
+    "health_protection_index": 38.7
   },
   {
     "sinco_code": "5112",
@@ -381,7 +404,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.4,
     "formality_rate": 17.4,
-    "health_insurance_rate": 8.8
+    "health_insurance_rate": 8.8,
+    "health_protection_index": 12.0
   },
   {
     "sinco_code": "2121",
@@ -397,7 +421,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 89.9,
-    "health_insurance_rate": 71.1
+    "health_insurance_rate": 71.1,
+    "health_protection_index": 71.6
   },
   {
     "sinco_code": "5211",
@@ -413,7 +438,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 12.8,
     "formality_rate": 15.2,
-    "health_insurance_rate": 2.5
+    "health_insurance_rate": 2.5,
+    "health_protection_index": 3.8
   },
   {
     "sinco_code": "2511",
@@ -429,7 +455,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 64.4,
     "formality_rate": 84.7,
-    "health_insurance_rate": 84.9
+    "health_insurance_rate": 84.9,
+    "health_protection_index": 85.7
   },
   {
     "sinco_code": "8212",
@@ -445,7 +472,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 9.2,
     "formality_rate": 98.8,
-    "health_insurance_rate": 98.7
+    "health_insurance_rate": 98.7,
+    "health_protection_index": 98.5
   },
   {
     "sinco_code": "3111",
@@ -461,7 +489,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 37.5,
     "formality_rate": 81.0,
-    "health_insurance_rate": 82.2
+    "health_insurance_rate": 82.2,
+    "health_protection_index": 83.2
   },
   {
     "sinco_code": "2135",
@@ -477,7 +506,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 74.1,
-    "health_insurance_rate": 41.4
+    "health_insurance_rate": 41.4,
+    "health_protection_index": 41.9
   },
   {
     "sinco_code": "6114",
@@ -493,7 +523,8 @@
     "education_mode": "Primaria",
     "pct_professional": 3.0,
     "formality_rate": 25.5,
-    "health_insurance_rate": 12.0
+    "health_insurance_rate": 12.0,
+    "health_protection_index": 13.1
   },
   {
     "sinco_code": "9236",
@@ -509,7 +540,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.8,
     "formality_rate": 34.3,
-    "health_insurance_rate": 34.0
+    "health_insurance_rate": 34.0,
+    "health_protection_index": 36.4
   },
   {
     "sinco_code": "2512",
@@ -525,7 +557,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 55.2,
     "formality_rate": 81.1,
-    "health_insurance_rate": 78.8
+    "health_insurance_rate": 78.8,
+    "health_protection_index": 78.9
   },
   {
     "sinco_code": "8344",
@@ -541,7 +574,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 11.6,
     "formality_rate": 18.0,
-    "health_insurance_rate": 12.5
+    "health_insurance_rate": 12.5,
+    "health_protection_index": 15.3
   },
   {
     "sinco_code": "4224",
@@ -557,7 +591,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 15.8,
     "formality_rate": 4.1,
-    "health_insurance_rate": 1.0
+    "health_insurance_rate": 1.0,
+    "health_protection_index": 1.0
   },
   {
     "sinco_code": "8211",
@@ -573,7 +608,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.1,
     "formality_rate": 99.3,
-    "health_insurance_rate": 99.4
+    "health_insurance_rate": 99.4,
+    "health_protection_index": 99.3
   },
   {
     "sinco_code": "7341",
@@ -589,7 +625,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.8,
     "formality_rate": 5.4,
-    "health_insurance_rate": 2.7
+    "health_insurance_rate": 2.7,
+    "health_protection_index": 4.5
   },
   {
     "sinco_code": "2331",
@@ -605,7 +642,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 94.9,
     "formality_rate": 92.6,
-    "health_insurance_rate": 93.2
+    "health_insurance_rate": 93.2,
+    "health_protection_index": 93.3
   },
   {
     "sinco_code": "7311",
@@ -621,7 +659,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.7,
     "formality_rate": 21.2,
-    "health_insurance_rate": 14.5
+    "health_insurance_rate": 14.5,
+    "health_protection_index": 16.2
   },
   {
     "sinco_code": "9331",
@@ -637,7 +676,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.7,
     "formality_rate": 36.4,
-    "health_insurance_rate": 36.5
+    "health_insurance_rate": 36.5,
+    "health_protection_index": 38.5
   },
   {
     "sinco_code": "5111",
@@ -653,7 +693,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 14.1,
     "formality_rate": 62.4,
-    "health_insurance_rate": 56.7
+    "health_insurance_rate": 56.7,
+    "health_protection_index": 58.4
   },
   {
     "sinco_code": "2436",
@@ -669,7 +710,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 82.6,
-    "health_insurance_rate": 84.4
+    "health_insurance_rate": 84.4,
+    "health_protection_index": 83.4
   },
   {
     "sinco_code": "8123",
@@ -685,7 +727,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 6.3,
     "formality_rate": 95.3,
-    "health_insurance_rate": 95.4
+    "health_insurance_rate": 95.4,
+    "health_protection_index": 95.2
   },
   {
     "sinco_code": "2271",
@@ -701,7 +744,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 87.8,
-    "health_insurance_rate": 83.2
+    "health_insurance_rate": 83.2,
+    "health_protection_index": 82.5
   },
   {
     "sinco_code": "8153",
@@ -717,7 +761,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.6,
     "formality_rate": 64.7,
-    "health_insurance_rate": 64.2
+    "health_insurance_rate": 64.2,
+    "health_protection_index": 65.1
   },
   {
     "sinco_code": "7221",
@@ -733,7 +778,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 9.4,
     "formality_rate": 25.6,
-    "health_insurance_rate": 13.2
+    "health_insurance_rate": 13.2,
+    "health_protection_index": 14.3
   },
   {
     "sinco_code": "6112",
@@ -749,7 +795,8 @@
     "education_mode": "Primaria",
     "pct_professional": 4.8,
     "formality_rate": 19.8,
-    "health_insurance_rate": 9.1
+    "health_insurance_rate": 9.1,
+    "health_protection_index": 10.7
   },
   {
     "sinco_code": "8101",
@@ -765,7 +812,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 37.6,
     "formality_rate": 95.4,
-    "health_insurance_rate": 95.6
+    "health_insurance_rate": 95.6,
+    "health_protection_index": 95.5
   },
   {
     "sinco_code": "4221",
@@ -781,7 +829,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 44.6,
     "formality_rate": 80.2,
-    "health_insurance_rate": 79.9
+    "health_insurance_rate": 79.9,
+    "health_protection_index": 80.4
   },
   {
     "sinco_code": "3211",
@@ -797,7 +846,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 42.3,
     "formality_rate": 69.2,
-    "health_insurance_rate": 70.1
+    "health_insurance_rate": 70.1,
+    "health_protection_index": 72.4
   },
   {
     "sinco_code": "2335",
@@ -813,7 +863,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 89.6,
     "formality_rate": 82.9,
-    "health_insurance_rate": 84.6
+    "health_insurance_rate": 84.6,
+    "health_protection_index": 85.4
   },
   {
     "sinco_code": "8133",
@@ -829,7 +880,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.9,
     "formality_rate": 94.8,
-    "health_insurance_rate": 94.7
+    "health_insurance_rate": 94.7,
+    "health_protection_index": 94.8
   },
   {
     "sinco_code": "7511",
@@ -845,7 +897,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.4,
     "formality_rate": 31.1,
-    "health_insurance_rate": 22.7
+    "health_insurance_rate": 22.7,
+    "health_protection_index": 25.8
   },
   {
     "sinco_code": "1411",
@@ -861,7 +914,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 69.6,
     "formality_rate": 89.8,
-    "health_insurance_rate": 63.3
+    "health_insurance_rate": 63.3,
+    "health_protection_index": 62.7
   },
   {
     "sinco_code": "4201",
@@ -877,7 +931,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 38.6,
     "formality_rate": 77.0,
-    "health_insurance_rate": 77.7
+    "health_insurance_rate": 77.7,
+    "health_protection_index": 79.9
   },
   {
     "sinco_code": "2642",
@@ -893,7 +948,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 18.2,
     "formality_rate": 54.3,
-    "health_insurance_rate": 52.5
+    "health_insurance_rate": 52.5,
+    "health_protection_index": 52.4
   },
   {
     "sinco_code": "5312",
@@ -909,7 +965,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 21.7,
     "formality_rate": 88.5,
-    "health_insurance_rate": 89.9
+    "health_insurance_rate": 89.9,
+    "health_protection_index": 90.7
   },
   {
     "sinco_code": "8352",
@@ -925,7 +982,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.2,
     "formality_rate": 92.5,
-    "health_insurance_rate": 92.5
+    "health_insurance_rate": 92.5,
+    "health_protection_index": 92.5
   },
   {
     "sinco_code": "2321",
@@ -941,7 +999,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 96.8,
     "formality_rate": 81.5,
-    "health_insurance_rate": 83.5
+    "health_insurance_rate": 83.5,
+    "health_protection_index": 82.7
   },
   {
     "sinco_code": "5222",
@@ -957,7 +1016,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 12.5,
     "formality_rate": 2.7,
-    "health_insurance_rate": 2.7
+    "health_insurance_rate": 2.7,
+    "health_protection_index": 8.1
   },
   {
     "sinco_code": "1511",
@@ -973,7 +1033,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 70.7,
     "formality_rate": 95.9,
-    "health_insurance_rate": 94.6
+    "health_insurance_rate": 94.6,
+    "health_protection_index": 94.4
   },
   {
     "sinco_code": "6121",
@@ -989,7 +1050,8 @@
     "education_mode": "Primaria",
     "pct_professional": 5.0,
     "formality_rate": 18.9,
-    "health_insurance_rate": 6.6
+    "health_insurance_rate": 6.6,
+    "health_protection_index": 8.6
   },
   {
     "sinco_code": "5212",
@@ -1005,7 +1067,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 21.6,
     "formality_rate": 10.9,
-    "health_insurance_rate": 2.7
+    "health_insurance_rate": 2.7,
+    "health_protection_index": 3.3
   },
   {
     "sinco_code": "2411",
@@ -1021,7 +1084,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 79.7,
-    "health_insurance_rate": 64.7
+    "health_insurance_rate": 64.7,
+    "health_protection_index": 64.0
   },
   {
     "sinco_code": "2322",
@@ -1037,7 +1101,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 97.4,
     "formality_rate": 86.4,
-    "health_insurance_rate": 87.5
+    "health_insurance_rate": 87.5,
+    "health_protection_index": 88.0
   },
   {
     "sinco_code": "4222",
@@ -1053,7 +1118,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 67.5,
     "formality_rate": 84.9,
-    "health_insurance_rate": 78.3
+    "health_insurance_rate": 78.3,
+    "health_protection_index": 78.3
   },
   {
     "sinco_code": "9112",
@@ -1069,7 +1135,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.0,
     "formality_rate": 9.3,
-    "health_insurance_rate": 8.9
+    "health_insurance_rate": 8.9,
+    "health_protection_index": 12.2
   },
   {
     "sinco_code": "7135",
@@ -1085,7 +1152,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.7,
     "formality_rate": 22.9,
-    "health_insurance_rate": 22.6
+    "health_insurance_rate": 22.6,
+    "health_protection_index": 23.8
   },
   {
     "sinco_code": "3113",
@@ -1101,7 +1169,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 63.0,
     "formality_rate": 83.2,
-    "health_insurance_rate": 83.6
+    "health_insurance_rate": 83.6,
+    "health_protection_index": 83.7
   },
   {
     "sinco_code": "4214",
@@ -1117,7 +1186,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.9,
     "formality_rate": 74.3,
-    "health_insurance_rate": 74.7
+    "health_insurance_rate": 74.7,
+    "health_protection_index": 77.1
   },
   {
     "sinco_code": "8201",
@@ -1133,7 +1203,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 31.0,
     "formality_rate": 98.8,
-    "health_insurance_rate": 99.4
+    "health_insurance_rate": 99.4,
+    "health_protection_index": 99.2
   },
   {
     "sinco_code": "9234",
@@ -1149,7 +1220,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.7,
     "formality_rate": 31.4,
-    "health_insurance_rate": 31.5
+    "health_insurance_rate": 31.5,
+    "health_protection_index": 34.4
   },
   {
     "sinco_code": "7134",
@@ -1165,7 +1237,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.6,
     "formality_rate": 40.9,
-    "health_insurance_rate": 39.0
+    "health_insurance_rate": 39.0,
+    "health_protection_index": 39.7
   },
   {
     "sinco_code": "2111",
@@ -1181,7 +1254,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 99.4,
     "formality_rate": 86.6,
-    "health_insurance_rate": 75.0
+    "health_insurance_rate": 75.0,
+    "health_protection_index": 75.0
   },
   {
     "sinco_code": "2634",
@@ -1197,7 +1271,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 27.6,
     "formality_rate": 76.6,
-    "health_insurance_rate": 73.2
+    "health_insurance_rate": 73.2,
+    "health_protection_index": 73.8
   },
   {
     "sinco_code": "2821",
@@ -1213,7 +1288,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 25.5,
     "formality_rate": 66.9,
-    "health_insurance_rate": 67.7
+    "health_insurance_rate": 67.7,
+    "health_protection_index": 69.4
   },
   {
     "sinco_code": "9235",
@@ -1229,7 +1305,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.5,
     "formality_rate": 41.3,
-    "health_insurance_rate": 41.7
+    "health_insurance_rate": 41.7,
+    "health_protection_index": 44.4
   },
   {
     "sinco_code": "2651",
@@ -1245,7 +1322,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 40.8,
     "formality_rate": 71.6,
-    "health_insurance_rate": 66.2
+    "health_insurance_rate": 66.2,
+    "health_protection_index": 65.6
   },
   {
     "sinco_code": "7213",
@@ -1261,7 +1339,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.8,
     "formality_rate": 32.2,
-    "health_insurance_rate": 23.3
+    "health_insurance_rate": 23.3,
+    "health_protection_index": 25.8
   },
   {
     "sinco_code": "6116",
@@ -1277,7 +1356,8 @@
     "education_mode": "Primaria",
     "pct_professional": 11.1,
     "formality_rate": 23.7,
-    "health_insurance_rate": 11.8
+    "health_insurance_rate": 11.8,
+    "health_protection_index": 10.2
   },
   {
     "sinco_code": "7212",
@@ -1293,7 +1373,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.8,
     "formality_rate": 66.3,
-    "health_insurance_rate": 60.8
+    "health_insurance_rate": 60.8,
+    "health_protection_index": 61.1
   },
   {
     "sinco_code": "7101",
@@ -1309,7 +1390,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 54.7,
     "formality_rate": 68.7,
-    "health_insurance_rate": 56.8
+    "health_insurance_rate": 56.8,
+    "health_protection_index": 56.8
   },
   {
     "sinco_code": "7515",
@@ -1325,7 +1407,8 @@
     "education_mode": "Primaria",
     "pct_professional": 9.6,
     "formality_rate": 9.6,
-    "health_insurance_rate": 3.8
+    "health_insurance_rate": 3.8,
+    "health_protection_index": 4.4
   },
   {
     "sinco_code": "3101",
@@ -1341,7 +1424,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 50.2,
     "formality_rate": 89.9,
-    "health_insurance_rate": 92.0
+    "health_insurance_rate": 92.0,
+    "health_protection_index": 90.6
   },
   {
     "sinco_code": "9233",
@@ -1357,7 +1441,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.1,
     "formality_rate": 74.9,
-    "health_insurance_rate": 74.9
+    "health_insurance_rate": 74.9,
+    "health_protection_index": 76.5
   },
   {
     "sinco_code": "1211",
@@ -1373,7 +1458,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 90.1,
     "formality_rate": 90.7,
-    "health_insurance_rate": 83.6
+    "health_insurance_rate": 83.6,
+    "health_protection_index": 84.2
   },
   {
     "sinco_code": "9631",
@@ -1389,7 +1475,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.5,
     "formality_rate": 17.0,
-    "health_insurance_rate": 14.0
+    "health_insurance_rate": 14.0,
+    "health_protection_index": 16.3
   },
   {
     "sinco_code": "2263",
@@ -1405,7 +1492,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 79.8,
-    "health_insurance_rate": 46.4
+    "health_insurance_rate": 46.4,
+    "health_protection_index": 46.6
   },
   {
     "sinco_code": "2142",
@@ -1421,7 +1509,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 66.7,
-    "health_insurance_rate": 37.4
+    "health_insurance_rate": 37.4,
+    "health_protection_index": 38.1
   },
   {
     "sinco_code": "2633",
@@ -1437,7 +1526,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 30.5,
     "formality_rate": 88.5,
-    "health_insurance_rate": 85.5
+    "health_insurance_rate": 85.5,
+    "health_protection_index": 85.2
   },
   {
     "sinco_code": "9232",
@@ -1453,7 +1543,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 9.5,
     "formality_rate": 60.1,
-    "health_insurance_rate": 61.0
+    "health_insurance_rate": 61.0,
+    "health_protection_index": 61.9
   },
   {
     "sinco_code": "3131",
@@ -1469,7 +1560,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 51.9,
     "formality_rate": 87.1,
-    "health_insurance_rate": 87.2
+    "health_insurance_rate": 87.2,
+    "health_protection_index": 88.4
   },
   {
     "sinco_code": "4212",
@@ -1485,7 +1577,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 18.5,
     "formality_rate": 75.8,
-    "health_insurance_rate": 77.1
+    "health_insurance_rate": 77.1,
+    "health_protection_index": 77.3
   },
   {
     "sinco_code": "2643",
@@ -1501,7 +1594,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 26.5,
     "formality_rate": 47.7,
-    "health_insurance_rate": 42.0
+    "health_insurance_rate": 42.0,
+    "health_protection_index": 41.7
   },
   {
     "sinco_code": "9712",
@@ -1517,7 +1611,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.6,
     "formality_rate": 39.2,
-    "health_insurance_rate": 40.1
+    "health_insurance_rate": 40.1,
+    "health_protection_index": 41.3
   },
   {
     "sinco_code": "8161",
@@ -1533,7 +1628,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.8,
     "formality_rate": 91.1,
-    "health_insurance_rate": 91.1
+    "health_insurance_rate": 91.1,
+    "health_protection_index": 92.2
   },
   {
     "sinco_code": "2172",
@@ -1549,7 +1645,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 24.5,
     "formality_rate": 9.4,
-    "health_insurance_rate": 3.8
+    "health_insurance_rate": 3.8,
+    "health_protection_index": 5.6
   },
   {
     "sinco_code": "5101",
@@ -1565,7 +1662,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 56.3,
     "formality_rate": 67.5,
-    "health_insurance_rate": 61.1
+    "health_insurance_rate": 61.1,
+    "health_protection_index": 63.5
   },
   {
     "sinco_code": "6131",
@@ -1581,7 +1679,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.6,
     "formality_rate": 19.7,
-    "health_insurance_rate": 2.0
+    "health_insurance_rate": 2.0,
+    "health_protection_index": 2.2
   },
   {
     "sinco_code": "2811",
@@ -1597,7 +1696,8 @@
     "education_mode": "Normal/Técnica",
     "pct_professional": 15.6,
     "formality_rate": 76.2,
-    "health_insurance_rate": 77.2
+    "health_insurance_rate": 77.2,
+    "health_protection_index": 77.6
   },
   {
     "sinco_code": "2644",
@@ -1613,7 +1713,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 28.1,
     "formality_rate": 48.8,
-    "health_insurance_rate": 45.7
+    "health_insurance_rate": 45.7,
+    "health_protection_index": 46.1
   },
   {
     "sinco_code": "9661",
@@ -1629,7 +1730,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.7,
     "formality_rate": 28.1,
-    "health_insurance_rate": 28.1
+    "health_insurance_rate": 28.1,
+    "health_protection_index": 29.2
   },
   {
     "sinco_code": "5242",
@@ -1645,7 +1747,8 @@
     "education_mode": "Primaria",
     "pct_professional": 4.7,
     "formality_rate": 7.5,
-    "health_insurance_rate": 6.4
+    "health_insurance_rate": 6.4,
+    "health_protection_index": 10.0
   },
   {
     "sinco_code": "5241",
@@ -1661,7 +1764,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.4,
     "formality_rate": 52.0,
-    "health_insurance_rate": 52.9
+    "health_insurance_rate": 52.9,
+    "health_protection_index": 54.9
   },
   {
     "sinco_code": "2412",
@@ -1677,7 +1781,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 99.8,
     "formality_rate": 73.4,
-    "health_insurance_rate": 13.7
+    "health_insurance_rate": 13.7,
+    "health_protection_index": 15.2
   },
   {
     "sinco_code": "7343",
@@ -1693,7 +1798,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.8,
     "formality_rate": 3.3,
-    "health_insurance_rate": 2.5
+    "health_insurance_rate": 2.5,
+    "health_protection_index": 3.7
   },
   {
     "sinco_code": "2253",
@@ -1709,7 +1815,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 94.6,
-    "health_insurance_rate": 92.4
+    "health_insurance_rate": 92.4,
+    "health_protection_index": 91.9
   },
   {
     "sinco_code": "1412",
@@ -1725,7 +1832,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 54.5,
     "formality_rate": 77.7,
-    "health_insurance_rate": 44.2
+    "health_insurance_rate": 44.2,
+    "health_protection_index": 45.1
   },
   {
     "sinco_code": "2112",
@@ -1741,7 +1849,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 87.0,
-    "health_insurance_rate": 77.9
+    "health_insurance_rate": 77.9,
+    "health_protection_index": 78.4
   },
   {
     "sinco_code": "4231",
@@ -1757,7 +1866,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 15.4,
     "formality_rate": 91.9,
-    "health_insurance_rate": 92.2
+    "health_insurance_rate": 92.2,
+    "health_protection_index": 88.4
   },
   {
     "sinco_code": "3122",
@@ -1773,7 +1883,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 36.0,
     "formality_rate": 71.9,
-    "health_insurance_rate": 70.6
+    "health_insurance_rate": 70.6,
+    "health_protection_index": 72.2
   },
   {
     "sinco_code": "6113",
@@ -1789,7 +1900,8 @@
     "education_mode": "Primaria",
     "pct_professional": 4.3,
     "formality_rate": 19.7,
-    "health_insurance_rate": 1.2
+    "health_insurance_rate": 1.2,
+    "health_protection_index": 0.9
   },
   {
     "sinco_code": "7411",
@@ -1805,7 +1917,8 @@
     "education_mode": "Primaria",
     "pct_professional": 5.7,
     "formality_rate": 19.6,
-    "health_insurance_rate": 9.8
+    "health_insurance_rate": 9.8,
+    "health_protection_index": 11.6
   },
   {
     "sinco_code": "4223",
@@ -1821,7 +1934,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 63.3,
     "formality_rate": 45.4,
-    "health_insurance_rate": 20.4
+    "health_insurance_rate": 20.4,
+    "health_protection_index": 21.7
   },
   {
     "sinco_code": "2261",
@@ -1837,7 +1951,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 80.9,
-    "health_insurance_rate": 64.3
+    "health_insurance_rate": 64.3,
+    "health_protection_index": 64.4
   },
   {
     "sinco_code": "1223",
@@ -1853,7 +1968,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 96.1,
     "formality_rate": 91.8,
-    "health_insurance_rate": 84.9
+    "health_insurance_rate": 84.9,
+    "health_protection_index": 84.9
   },
   {
     "sinco_code": "9623",
@@ -1869,7 +1985,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 2.9,
     "formality_rate": 56.7,
-    "health_insurance_rate": 58.2
+    "health_insurance_rate": 58.2,
+    "health_protection_index": 60.7
   },
   {
     "sinco_code": "2162",
@@ -1885,7 +2002,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 97.9,
     "formality_rate": 70.6,
-    "health_insurance_rate": 54.1
+    "health_insurance_rate": 54.1,
+    "health_protection_index": 55.2
   },
   {
     "sinco_code": "6211",
@@ -1901,7 +2019,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.5,
     "formality_rate": 12.9,
-    "health_insurance_rate": 1.9
+    "health_insurance_rate": 1.9,
+    "health_protection_index": 2.9
   },
   {
     "sinco_code": "1614",
@@ -1917,7 +2036,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 41.7,
     "formality_rate": 94.3,
-    "health_insurance_rate": 91.3
+    "health_insurance_rate": 91.3,
+    "health_protection_index": 91.7
   },
   {
     "sinco_code": "3212",
@@ -1933,7 +2053,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 55.5,
     "formality_rate": 91.6,
-    "health_insurance_rate": 92.6
+    "health_insurance_rate": 92.6,
+    "health_protection_index": 92.4
   },
   {
     "sinco_code": "1212",
@@ -1949,7 +2070,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 84.7,
     "formality_rate": 90.5,
-    "health_insurance_rate": 84.6
+    "health_insurance_rate": 84.6,
+    "health_protection_index": 84.9
   },
   {
     "sinco_code": "8351",
@@ -1965,7 +2087,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.5,
     "formality_rate": 68.0,
-    "health_insurance_rate": 68.4
+    "health_insurance_rate": 68.4,
+    "health_protection_index": 69.0
   },
   {
     "sinco_code": "5221",
@@ -1981,7 +2104,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 24.8,
     "formality_rate": 48.3,
-    "health_insurance_rate": 49.4
+    "health_insurance_rate": 49.4,
+    "health_protection_index": 50.9
   },
   {
     "sinco_code": "1314",
@@ -1997,7 +2121,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 64.8,
     "formality_rate": 88.5,
-    "health_insurance_rate": 41.1
+    "health_insurance_rate": 41.1,
+    "health_protection_index": 41.7
   },
   {
     "sinco_code": "6124",
@@ -2013,7 +2138,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.5,
     "formality_rate": 8.4,
-    "health_insurance_rate": 3.2
+    "health_insurance_rate": 3.2,
+    "health_protection_index": 3.5
   },
   {
     "sinco_code": "7133",
@@ -2029,7 +2155,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.2,
     "formality_rate": 31.6,
-    "health_insurance_rate": 27.1
+    "health_insurance_rate": 27.1,
+    "health_protection_index": 29.6
   },
   {
     "sinco_code": "8154",
@@ -2045,7 +2172,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.9,
     "formality_rate": 60.1,
-    "health_insurance_rate": 60.4
+    "health_insurance_rate": 60.4,
+    "health_protection_index": 64.0
   },
   {
     "sinco_code": "9641",
@@ -2061,7 +2189,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 9.9,
     "formality_rate": 51.1,
-    "health_insurance_rate": 44.3
+    "health_insurance_rate": 44.3,
+    "health_protection_index": 46.3
   },
   {
     "sinco_code": "2711",
@@ -2077,7 +2206,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 54.4,
     "formality_rate": 39.5,
-    "health_insurance_rate": 39.7
+    "health_insurance_rate": 39.7,
+    "health_protection_index": 40.9
   },
   {
     "sinco_code": "3213",
@@ -2093,7 +2223,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 50.7,
     "formality_rate": 76.2,
-    "health_insurance_rate": 76.6
+    "health_insurance_rate": 76.6,
+    "health_protection_index": 76.2
   },
   {
     "sinco_code": "9622",
@@ -2109,7 +2240,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 2.2,
     "formality_rate": 67.4,
-    "health_insurance_rate": 70.6
+    "health_insurance_rate": 70.6,
+    "health_protection_index": 73.5
   },
   {
     "sinco_code": "2716",
@@ -2125,7 +2257,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 46.1,
     "formality_rate": 41.7,
-    "health_insurance_rate": 27.5
+    "health_insurance_rate": 27.5,
+    "health_protection_index": 29.2
   },
   {
     "sinco_code": "2637",
@@ -2141,7 +2274,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 19.1,
     "formality_rate": 43.4,
-    "health_insurance_rate": 31.5
+    "health_insurance_rate": 31.5,
+    "health_protection_index": 33.5
   },
   {
     "sinco_code": "9722",
@@ -2157,7 +2291,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 17.3,
     "formality_rate": 68.2,
-    "health_insurance_rate": 70.0
+    "health_insurance_rate": 70.0,
+    "health_protection_index": 70.2
   },
   {
     "sinco_code": "7332",
@@ -2173,7 +2308,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.3,
     "formality_rate": 0.7,
-    "health_insurance_rate": 0.2
+    "health_insurance_rate": 0.2,
+    "health_protection_index": 0.3
   },
   {
     "sinco_code": "2715",
@@ -2189,7 +2325,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 53.5,
     "formality_rate": 70.3,
-    "health_insurance_rate": 66.7
+    "health_insurance_rate": 66.7,
+    "health_protection_index": 67.1
   },
   {
     "sinco_code": "2531",
@@ -2205,7 +2342,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 40.9,
     "formality_rate": 66.7,
-    "health_insurance_rate": 63.0
+    "health_insurance_rate": 63.0,
+    "health_protection_index": 66.1
   },
   {
     "sinco_code": "2242",
@@ -2221,7 +2359,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 93.3,
-    "health_insurance_rate": 88.9
+    "health_insurance_rate": 88.9,
+    "health_protection_index": 88.0
   },
   {
     "sinco_code": "7322",
@@ -2237,7 +2376,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 22.0,
     "formality_rate": 62.4,
-    "health_insurance_rate": 44.3
+    "health_insurance_rate": 44.3,
+    "health_protection_index": 46.2
   },
   {
     "sinco_code": "7612",
@@ -2253,7 +2393,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.2,
     "formality_rate": 6.1,
-    "health_insurance_rate": 3.1
+    "health_insurance_rate": 3.1,
+    "health_protection_index": 5.1
   },
   {
     "sinco_code": "2437",
@@ -2269,7 +2410,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 97.0,
     "formality_rate": 43.9,
-    "health_insurance_rate": 22.1
+    "health_insurance_rate": 22.1,
+    "health_protection_index": 24.9
   },
   {
     "sinco_code": "2222",
@@ -2285,7 +2427,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 78.8,
-    "health_insurance_rate": 78.8
+    "health_insurance_rate": 78.8,
+    "health_protection_index": 77.3
   },
   {
     "sinco_code": "2122",
@@ -2301,7 +2444,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 99.9,
     "formality_rate": 89.6,
-    "health_insurance_rate": 81.8
+    "health_insurance_rate": 81.8,
+    "health_protection_index": 79.8
   },
   {
     "sinco_code": "2544",
@@ -2317,7 +2461,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 37.6,
     "formality_rate": 28.0,
-    "health_insurance_rate": 21.4
+    "health_insurance_rate": 21.4,
+    "health_protection_index": 22.6
   },
   {
     "sinco_code": "5413",
@@ -2333,7 +2478,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 19.9,
     "formality_rate": 99.0,
-    "health_insurance_rate": 99.0
+    "health_insurance_rate": 99.0,
+    "health_protection_index": 99.1
   },
   {
     "sinco_code": "2812",
@@ -2349,7 +2495,8 @@
     "education_mode": "Normal/Técnica",
     "pct_professional": 29.7,
     "formality_rate": 50.0,
-    "health_insurance_rate": 38.7
+    "health_insurance_rate": 38.7,
+    "health_protection_index": 41.5
   },
   {
     "sinco_code": "1315",
@@ -2365,7 +2512,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 80.3,
     "formality_rate": 87.3,
-    "health_insurance_rate": 48.9
+    "health_insurance_rate": 48.9,
+    "health_protection_index": 51.6
   },
   {
     "sinco_code": "2532",
@@ -2381,7 +2529,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 75.8,
     "formality_rate": 47.5,
-    "health_insurance_rate": 40.5
+    "health_insurance_rate": 40.5,
+    "health_protection_index": 43.9
   },
   {
     "sinco_code": "7353",
@@ -2397,7 +2546,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 1.5,
     "formality_rate": 12.2,
-    "health_insurance_rate": 9.8
+    "health_insurance_rate": 9.8,
+    "health_protection_index": 15.0
   },
   {
     "sinco_code": "1711",
@@ -2413,7 +2563,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.3,
     "formality_rate": 91.9,
-    "health_insurance_rate": 90.2
+    "health_insurance_rate": 90.2,
+    "health_protection_index": 90.0
   },
   {
     "sinco_code": "7313",
@@ -2429,7 +2580,8 @@
     "education_mode": "Sin escolaridad",
     "pct_professional": 3.8,
     "formality_rate": 2.7,
-    "health_insurance_rate": 2.6
+    "health_insurance_rate": 2.6,
+    "health_protection_index": 2.7
   },
   {
     "sinco_code": "6223",
@@ -2445,7 +2597,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.3,
     "formality_rate": 65.6,
-    "health_insurance_rate": 62.3
+    "health_insurance_rate": 62.3,
+    "health_protection_index": 64.0
   },
   {
     "sinco_code": "1623",
@@ -2461,7 +2614,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 65.3,
     "formality_rate": 95.2,
-    "health_insurance_rate": 91.2
+    "health_insurance_rate": 91.2,
+    "health_protection_index": 91.2
   },
   {
     "sinco_code": "5115",
@@ -2477,7 +2631,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 15.9,
     "formality_rate": 56.5,
-    "health_insurance_rate": 54.1
+    "health_insurance_rate": 54.1,
+    "health_protection_index": 55.5
   },
   {
     "sinco_code": "2655",
@@ -2493,7 +2648,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 34.3,
     "formality_rate": 25.6,
-    "health_insurance_rate": 9.8
+    "health_insurance_rate": 9.8,
+    "health_protection_index": 10.1
   },
   {
     "sinco_code": "6123",
@@ -2509,7 +2665,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.9,
     "formality_rate": 42.2,
-    "health_insurance_rate": 39.3
+    "health_insurance_rate": 39.3,
+    "health_protection_index": 39.5
   },
   {
     "sinco_code": "2429",
@@ -2525,7 +2682,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 93.3,
-    "health_insurance_rate": 61.3
+    "health_insurance_rate": 61.3,
+    "health_protection_index": 61.0
   },
   {
     "sinco_code": "2232",
@@ -2541,7 +2699,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 63.3,
-    "health_insurance_rate": 28.8
+    "health_insurance_rate": 28.8,
+    "health_protection_index": 30.5
   },
   {
     "sinco_code": "9601",
@@ -2557,7 +2716,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 29.4,
     "formality_rate": 70.2,
-    "health_insurance_rate": 65.5
+    "health_insurance_rate": 65.5,
+    "health_protection_index": 67.0
   },
   {
     "sinco_code": "9311",
@@ -2573,7 +2733,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.6,
     "formality_rate": 38.6,
-    "health_insurance_rate": 38.6
+    "health_insurance_rate": 38.6,
+    "health_protection_index": 38.6
   },
   {
     "sinco_code": "1615",
@@ -2589,7 +2750,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.1,
     "formality_rate": 87.8,
-    "health_insurance_rate": 81.9
+    "health_insurance_rate": 81.9,
+    "health_protection_index": 81.6
   },
   {
     "sinco_code": "7321",
@@ -2605,7 +2767,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 14.0,
     "formality_rate": 5.4,
-    "health_insurance_rate": 2.0
+    "health_insurance_rate": 2.0,
+    "health_protection_index": 2.2
   },
   {
     "sinco_code": "2543",
@@ -2621,7 +2784,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 52.1,
     "formality_rate": 48.7,
-    "health_insurance_rate": 35.1
+    "health_insurance_rate": 35.1,
+    "health_protection_index": 38.2
   },
   {
     "sinco_code": "2646",
@@ -2637,7 +2801,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 15.2,
     "formality_rate": 54.2,
-    "health_insurance_rate": 38.5
+    "health_insurance_rate": 38.5,
+    "health_protection_index": 39.2
   },
   {
     "sinco_code": "6117",
@@ -2653,7 +2818,8 @@
     "education_mode": "Primaria",
     "pct_professional": 3.7,
     "formality_rate": 43.5,
-    "health_insurance_rate": 43.9
+    "health_insurance_rate": 43.9,
+    "health_protection_index": 43.4
   },
   {
     "sinco_code": "9713",
@@ -2669,7 +2835,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 17.2,
     "formality_rate": 36.6,
-    "health_insurance_rate": 25.0
+    "health_insurance_rate": 25.0,
+    "health_protection_index": 27.0
   },
   {
     "sinco_code": "7342",
@@ -2685,7 +2852,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.2,
     "formality_rate": 10.1,
-    "health_insurance_rate": 4.9
+    "health_insurance_rate": 4.9,
+    "health_protection_index": 5.9
   },
   {
     "sinco_code": "2712",
@@ -2701,7 +2869,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 63.9,
     "formality_rate": 31.6,
-    "health_insurance_rate": 21.1
+    "health_insurance_rate": 21.1,
+    "health_protection_index": 22.2
   },
   {
     "sinco_code": "8343",
@@ -2717,7 +2886,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.0,
     "formality_rate": 21.1,
-    "health_insurance_rate": 21.3
+    "health_insurance_rate": 21.3,
+    "health_protection_index": 33.1
   },
   {
     "sinco_code": "4312",
@@ -2733,7 +2903,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 20.0,
     "formality_rate": 25.1,
-    "health_insurance_rate": 8.8
+    "health_insurance_rate": 8.8,
+    "health_protection_index": 10.6
   },
   {
     "sinco_code": "2823",
@@ -2749,7 +2920,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 27.1,
     "formality_rate": 73.6,
-    "health_insurance_rate": 69.9
+    "health_insurance_rate": 69.9,
+    "health_protection_index": 70.9
   },
   {
     "sinco_code": "9237",
@@ -2765,7 +2937,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 9.7,
     "formality_rate": 34.1,
-    "health_insurance_rate": 34.1
+    "health_insurance_rate": 34.1,
+    "health_protection_index": 37.9
   },
   {
     "sinco_code": "8163",
@@ -2781,7 +2954,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 14.3,
     "formality_rate": 79.1,
-    "health_insurance_rate": 79.4
+    "health_insurance_rate": 79.4,
+    "health_protection_index": 80.7
   },
   {
     "sinco_code": "7211",
@@ -2797,7 +2971,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 14.2,
     "formality_rate": 65.0,
-    "health_insurance_rate": 55.1
+    "health_insurance_rate": 55.1,
+    "health_protection_index": 56.1
   },
   {
     "sinco_code": "2641",
@@ -2813,7 +2988,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 35.4,
     "formality_rate": 63.8,
-    "health_insurance_rate": 61.3
+    "health_insurance_rate": 61.3,
+    "health_protection_index": 60.9
   },
   {
     "sinco_code": "7611",
@@ -2829,7 +3005,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.5,
     "formality_rate": 5.1,
-    "health_insurance_rate": 4.4
+    "health_insurance_rate": 4.4,
+    "health_protection_index": 8.2
   },
   {
     "sinco_code": "1512",
@@ -2845,7 +3022,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 76.7,
     "formality_rate": 94.5,
-    "health_insurance_rate": 94.5
+    "health_insurance_rate": 94.5,
+    "health_protection_index": 95.3
   },
   {
     "sinco_code": "6122",
@@ -2861,7 +3039,8 @@
     "education_mode": "Primaria",
     "pct_professional": 5.2,
     "formality_rate": 27.3,
-    "health_insurance_rate": 20.9
+    "health_insurance_rate": 20.9,
+    "health_protection_index": 21.8
   },
   {
     "sinco_code": "2822",
@@ -2877,7 +3056,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 40.1,
     "formality_rate": 23.8,
-    "health_insurance_rate": 20.8
+    "health_insurance_rate": 20.8,
+    "health_protection_index": 29.1
   },
   {
     "sinco_code": "2562",
@@ -2893,7 +3073,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 56.6,
     "formality_rate": 27.4,
-    "health_insurance_rate": 22.5
+    "health_insurance_rate": 22.5,
+    "health_protection_index": 26.3
   },
   {
     "sinco_code": "5213",
@@ -2909,7 +3090,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 27.3,
     "formality_rate": 30.9,
-    "health_insurance_rate": 11.1
+    "health_insurance_rate": 11.1,
+    "health_protection_index": 11.9
   },
   {
     "sinco_code": "2827",
@@ -2925,7 +3107,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 19.0,
     "formality_rate": 46.7,
-    "health_insurance_rate": 42.4
+    "health_insurance_rate": 42.4,
+    "health_protection_index": 47.2
   },
   {
     "sinco_code": "6101",
@@ -2941,7 +3124,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 26.2,
     "formality_rate": 50.4,
-    "health_insurance_rate": 47.0
+    "health_insurance_rate": 47.0,
+    "health_protection_index": 50.4
   },
   {
     "sinco_code": "5301",
@@ -2957,7 +3141,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 40.9,
     "formality_rate": 93.5,
-    "health_insurance_rate": 95.7
+    "health_insurance_rate": 95.7,
+    "health_protection_index": 96.4
   },
   {
     "sinco_code": "8145",
@@ -2973,7 +3158,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.4,
     "formality_rate": 91.2,
-    "health_insurance_rate": 91.5
+    "health_insurance_rate": 91.5,
+    "health_protection_index": 91.8
   },
   {
     "sinco_code": "9662",
@@ -2989,7 +3175,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.2,
     "formality_rate": 46.1,
-    "health_insurance_rate": 46.3
+    "health_insurance_rate": 46.3,
+    "health_protection_index": 51.1
   },
   {
     "sinco_code": "2433",
@@ -3005,7 +3192,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 78.2,
-    "health_insurance_rate": 48.5
+    "health_insurance_rate": 48.5,
+    "health_protection_index": 48.5
   },
   {
     "sinco_code": "1122",
@@ -3021,7 +3209,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 88.9,
     "formality_rate": 95.9,
-    "health_insurance_rate": 61.3
+    "health_insurance_rate": 61.3,
+    "health_protection_index": 61.4
   },
   {
     "sinco_code": "2638",
@@ -3037,7 +3226,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 18.7,
     "formality_rate": 51.3,
-    "health_insurance_rate": 44.6
+    "health_insurance_rate": 44.6,
+    "health_protection_index": 45.5
   },
   {
     "sinco_code": "2630",
@@ -3053,7 +3243,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 66.8,
     "formality_rate": 88.9,
-    "health_insurance_rate": 88.5
+    "health_insurance_rate": 88.5,
+    "health_protection_index": 89.7
   },
   {
     "sinco_code": "6311",
@@ -3069,7 +3260,8 @@
     "education_mode": "Primaria",
     "pct_professional": 2.7,
     "formality_rate": 36.3,
-    "health_insurance_rate": 36.4
+    "health_insurance_rate": 36.4,
+    "health_protection_index": 40.0
   },
   {
     "sinco_code": "2312",
@@ -3085,7 +3277,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 95.9,
     "formality_rate": 75.2,
-    "health_insurance_rate": 75.8
+    "health_insurance_rate": 75.8,
+    "health_protection_index": 77.2
   },
   {
     "sinco_code": "6115",
@@ -3101,7 +3294,8 @@
     "education_mode": "Primaria",
     "pct_professional": 4.1,
     "formality_rate": 11.5,
-    "health_insurance_rate": 0.7
+    "health_insurance_rate": 0.7,
+    "health_protection_index": 1.1
   },
   {
     "sinco_code": "3142",
@@ -3117,7 +3311,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 37.9,
     "formality_rate": 57.0,
-    "health_insurance_rate": 57.5
+    "health_insurance_rate": 57.5,
+    "health_protection_index": 59.3
   },
   {
     "sinco_code": "9222",
@@ -3133,7 +3328,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.0,
     "formality_rate": 28.6,
-    "health_insurance_rate": 28.7
+    "health_insurance_rate": 28.7,
+    "health_protection_index": 32.8
   },
   {
     "sinco_code": "9643",
@@ -3149,7 +3345,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.9,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.8
   },
   {
     "sinco_code": "3221",
@@ -3165,7 +3362,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 64.6,
     "formality_rate": 73.3,
-    "health_insurance_rate": 45.6
+    "health_insurance_rate": 45.6,
+    "health_protection_index": 46.2
   },
   {
     "sinco_code": "7512",
@@ -3181,7 +3379,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 9.9,
     "formality_rate": 19.8,
-    "health_insurance_rate": 17.6
+    "health_insurance_rate": 17.6,
+    "health_protection_index": 22.6
   },
   {
     "sinco_code": "9121",
@@ -3197,7 +3396,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.5,
     "formality_rate": 20.7,
-    "health_insurance_rate": 20.2
+    "health_insurance_rate": 20.2,
+    "health_protection_index": 22.4
   },
   {
     "sinco_code": "9113",
@@ -3213,7 +3413,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.2,
     "formality_rate": 2.6,
-    "health_insurance_rate": 2.6
+    "health_insurance_rate": 2.6,
+    "health_protection_index": 4.6
   },
   {
     "sinco_code": "8311",
@@ -3229,7 +3430,8 @@
     "education_mode": "Primaria",
     "pct_professional": 21.4,
     "formality_rate": 48.2,
-    "health_insurance_rate": 48.4
+    "health_insurance_rate": 48.4,
+    "health_protection_index": 53.1
   },
   {
     "sinco_code": "2143",
@@ -3245,7 +3447,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 91.6,
-    "health_insurance_rate": 91.9
+    "health_insurance_rate": 91.9,
+    "health_protection_index": 91.6
   },
   {
     "sinco_code": "5254",
@@ -3261,7 +3464,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 31.6,
     "formality_rate": 14.1,
-    "health_insurance_rate": 10.7
+    "health_insurance_rate": 10.7,
+    "health_protection_index": 12.5
   },
   {
     "sinco_code": "1523",
@@ -3277,7 +3481,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 88.4,
     "formality_rate": 93.1,
-    "health_insurance_rate": 96.9
+    "health_insurance_rate": 96.9,
+    "health_protection_index": 93.0
   },
   {
     "sinco_code": "7517",
@@ -3293,7 +3498,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.0,
     "formality_rate": 18.9,
-    "health_insurance_rate": 9.9
+    "health_insurance_rate": 9.9,
+    "health_protection_index": 12.8
   },
   {
     "sinco_code": "1521",
@@ -3309,7 +3515,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 92.6,
     "formality_rate": 97.0,
-    "health_insurance_rate": 95.7
+    "health_insurance_rate": 95.7,
+    "health_protection_index": 95.8
   },
   {
     "sinco_code": "2654",
@@ -3325,7 +3532,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 35.5,
     "formality_rate": 35.3,
-    "health_insurance_rate": 22.4
+    "health_insurance_rate": 22.4,
+    "health_protection_index": 24.0
   },
   {
     "sinco_code": "8122",
@@ -3341,7 +3549,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.6,
     "formality_rate": 90.6,
-    "health_insurance_rate": 90.6
+    "health_insurance_rate": 90.6,
+    "health_protection_index": 91.0
   },
   {
     "sinco_code": "8121",
@@ -3357,7 +3566,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 9.6,
     "formality_rate": 92.0,
-    "health_insurance_rate": 92.7
+    "health_insurance_rate": 92.7,
+    "health_protection_index": 92.3
   },
   {
     "sinco_code": "7132",
@@ -3373,7 +3583,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.8,
     "formality_rate": 19.5,
-    "health_insurance_rate": 18.3
+    "health_insurance_rate": 18.3,
+    "health_protection_index": 21.2
   },
   {
     "sinco_code": "2825",
@@ -3389,7 +3600,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.4,
     "formality_rate": 95.0,
-    "health_insurance_rate": 91.5
+    "health_insurance_rate": 91.5,
+    "health_protection_index": 92.4
   },
   {
     "sinco_code": "4213",
@@ -3405,7 +3617,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 51.1,
     "formality_rate": 84.4,
-    "health_insurance_rate": 84.4
+    "health_insurance_rate": 84.4,
+    "health_protection_index": 85.1
   },
   {
     "sinco_code": "2612",
@@ -3421,7 +3634,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 31.1,
     "formality_rate": 87.0,
-    "health_insurance_rate": 91.2
+    "health_insurance_rate": 91.2,
+    "health_protection_index": 88.5
   },
   {
     "sinco_code": "8151",
@@ -3437,7 +3651,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 11.6,
     "formality_rate": 90.1,
-    "health_insurance_rate": 90.1
+    "health_insurance_rate": 90.1,
+    "health_protection_index": 92.7
   },
   {
     "sinco_code": "2640",
@@ -3453,7 +3668,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.6,
     "formality_rate": 92.8,
-    "health_insurance_rate": 79.6
+    "health_insurance_rate": 79.6,
+    "health_protection_index": 78.7
   },
   {
     "sinco_code": "2552",
@@ -3469,7 +3685,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 52.6,
     "formality_rate": 34.7,
-    "health_insurance_rate": 26.3
+    "health_insurance_rate": 26.3,
+    "health_protection_index": 29.2
   },
   {
     "sinco_code": "7613",
@@ -3485,7 +3702,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.4,
     "formality_rate": 28.3,
-    "health_insurance_rate": 21.6
+    "health_insurance_rate": 21.6,
+    "health_protection_index": 24.6
   },
   {
     "sinco_code": "2252",
@@ -3501,7 +3719,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 99.7,
     "formality_rate": 90.5,
-    "health_insurance_rate": 87.2
+    "health_insurance_rate": 87.2,
+    "health_protection_index": 86.6
   },
   {
     "sinco_code": "7351",
@@ -3517,7 +3736,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.1,
     "formality_rate": 37.4,
-    "health_insurance_rate": 16.5
+    "health_insurance_rate": 16.5,
+    "health_protection_index": 18.3
   },
   {
     "sinco_code": "8132",
@@ -3533,7 +3753,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 0.3,
     "formality_rate": 99.7,
-    "health_insurance_rate": 99.7
+    "health_insurance_rate": 99.7,
+    "health_protection_index": 99.0
   },
   {
     "sinco_code": "1524",
@@ -3549,7 +3770,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 91.8,
     "formality_rate": 93.1,
-    "health_insurance_rate": 93.2
+    "health_insurance_rate": 93.2,
+    "health_protection_index": 93.6
   },
   {
     "sinco_code": "7131",
@@ -3565,7 +3787,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.2,
     "formality_rate": 12.7,
-    "health_insurance_rate": 13.2
+    "health_insurance_rate": 13.2,
+    "health_protection_index": 14.6
   },
   {
     "sinco_code": "9633",
@@ -3581,7 +3804,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 17.1,
     "formality_rate": 21.4,
-    "health_insurance_rate": 20.7
+    "health_insurance_rate": 20.7,
+    "health_protection_index": 25.0
   },
   {
     "sinco_code": "8152",
@@ -3597,7 +3821,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 1.3,
     "formality_rate": 90.6,
-    "health_insurance_rate": 90.6
+    "health_insurance_rate": 90.6,
+    "health_protection_index": 93.6
   },
   {
     "sinco_code": "7514",
@@ -3613,7 +3838,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.3,
     "formality_rate": 14.7,
-    "health_insurance_rate": 11.5
+    "health_insurance_rate": 11.5,
+    "health_protection_index": 12.0
   },
   {
     "sinco_code": "3231",
@@ -3629,7 +3855,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 57.5,
     "formality_rate": 76.6,
-    "health_insurance_rate": 78.5
+    "health_insurance_rate": 78.5,
+    "health_protection_index": 78.0
   },
   {
     "sinco_code": "1323",
@@ -3645,7 +3872,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 56.4,
     "formality_rate": 88.7,
-    "health_insurance_rate": 39.3
+    "health_insurance_rate": 39.3,
+    "health_protection_index": 39.7
   },
   {
     "sinco_code": "8131",
@@ -3661,7 +3889,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 10.4,
     "formality_rate": 98.0,
-    "health_insurance_rate": 97.6
+    "health_insurance_rate": 97.6,
+    "health_protection_index": 96.9
   },
   {
     "sinco_code": "2621",
@@ -3677,7 +3906,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 48.4,
     "formality_rate": 92.3,
-    "health_insurance_rate": 89.0
+    "health_insurance_rate": 89.0,
+    "health_protection_index": 87.5
   },
   {
     "sinco_code": "9723",
@@ -3693,7 +3923,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.2,
     "formality_rate": 8.8,
-    "health_insurance_rate": 1.7
+    "health_insurance_rate": 1.7,
+    "health_protection_index": 4.9
   },
   {
     "sinco_code": "2514",
@@ -3709,7 +3940,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 33.6,
     "formality_rate": 98.7,
-    "health_insurance_rate": 92.2
+    "health_insurance_rate": 92.2,
+    "health_protection_index": 92.4
   },
   {
     "sinco_code": "5314",
@@ -3725,7 +3957,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.6,
     "formality_rate": 24.2,
-    "health_insurance_rate": 24.6
+    "health_insurance_rate": 24.6,
+    "health_protection_index": 29.8
   },
   {
     "sinco_code": "2513",
@@ -3741,7 +3974,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.6,
     "formality_rate": 88.4,
-    "health_insurance_rate": 86.5
+    "health_insurance_rate": 86.5,
+    "health_protection_index": 82.7
   },
   {
     "sinco_code": "9711",
@@ -3757,7 +3991,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 17.5,
     "formality_rate": 71.4,
-    "health_insurance_rate": 71.4
+    "health_insurance_rate": 71.4,
+    "health_protection_index": 72.1
   },
   {
     "sinco_code": "2714",
@@ -3773,7 +4008,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 75.0,
     "formality_rate": 18.1,
-    "health_insurance_rate": 14.0
+    "health_insurance_rate": 14.0,
+    "health_protection_index": 15.9
   },
   {
     "sinco_code": "7312",
@@ -3789,7 +4025,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.8,
     "formality_rate": 32.3,
-    "health_insurance_rate": 32.1
+    "health_insurance_rate": 32.1,
+    "health_protection_index": 34.5
   },
   {
     "sinco_code": "3201",
@@ -3805,7 +4042,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.6,
     "formality_rate": 97.6,
-    "health_insurance_rate": 83.8
+    "health_insurance_rate": 83.8,
+    "health_protection_index": 82.5
   },
   {
     "sinco_code": "2152",
@@ -3821,7 +4059,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 86.9,
     "formality_rate": 66.8,
-    "health_insurance_rate": 56.2
+    "health_insurance_rate": 56.2,
+    "health_protection_index": 59.6
   },
   {
     "sinco_code": "8301",
@@ -3837,7 +4076,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 40.9,
     "formality_rate": 89.7,
-    "health_insurance_rate": 81.3
+    "health_insurance_rate": 81.3,
+    "health_protection_index": 82.5
   },
   {
     "sinco_code": "2173",
@@ -3853,7 +4093,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 36.3,
     "formality_rate": 13.9,
-    "health_insurance_rate": 6.8
+    "health_insurance_rate": 6.8,
+    "health_protection_index": 6.7
   },
   {
     "sinco_code": "5311",
@@ -3869,7 +4110,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 16.9,
     "formality_rate": 91.0,
-    "health_insurance_rate": 91.3
+    "health_insurance_rate": 91.3,
+    "health_protection_index": 92.2
   },
   {
     "sinco_code": "1422",
@@ -3885,7 +4127,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 67.6,
     "formality_rate": 84.1,
-    "health_insurance_rate": 39.1
+    "health_insurance_rate": 39.1,
+    "health_protection_index": 40.4
   },
   {
     "sinco_code": "2311",
@@ -3901,7 +4144,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 93.2,
     "formality_rate": 94.6,
-    "health_insurance_rate": 94.6
+    "health_insurance_rate": 94.6,
+    "health_protection_index": 95.1
   },
   {
     "sinco_code": "8172",
@@ -3917,7 +4161,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.8,
     "formality_rate": 72.8,
-    "health_insurance_rate": 72.8
+    "health_insurance_rate": 72.8,
+    "health_protection_index": 77.3
   },
   {
     "sinco_code": "1722",
@@ -3933,7 +4178,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 71.4,
     "formality_rate": 78.1,
-    "health_insurance_rate": 71.7
+    "health_insurance_rate": 71.7,
+    "health_protection_index": 67.9
   },
   {
     "sinco_code": "8142",
@@ -3949,7 +4195,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.6,
     "formality_rate": 91.0,
-    "health_insurance_rate": 94.2
+    "health_insurance_rate": 94.2,
+    "health_protection_index": 93.5
   },
   {
     "sinco_code": "2231",
@@ -3965,7 +4212,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 66.3,
-    "health_insurance_rate": 58.2
+    "health_insurance_rate": 58.2,
+    "health_protection_index": 58.4
   },
   {
     "sinco_code": "7412",
@@ -3981,7 +4229,8 @@
     "education_mode": "Primaria",
     "pct_professional": 19.8,
     "formality_rate": 27.6,
-    "health_insurance_rate": 25.4
+    "health_insurance_rate": 25.4,
+    "health_protection_index": 26.4
   },
   {
     "sinco_code": "2653",
@@ -3997,7 +4246,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 58.2,
     "formality_rate": 60.9,
-    "health_insurance_rate": 41.4
+    "health_insurance_rate": 41.4,
+    "health_protection_index": 44.0
   },
   {
     "sinco_code": "8141",
@@ -4013,7 +4263,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.6,
     "formality_rate": 53.8,
-    "health_insurance_rate": 51.1
+    "health_insurance_rate": 51.1,
+    "health_protection_index": 52.5
   },
   {
     "sinco_code": "3141",
@@ -4029,7 +4280,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 28.0,
     "formality_rate": 85.4,
-    "health_insurance_rate": 88.0
+    "health_insurance_rate": 88.0,
+    "health_protection_index": 84.9
   },
   {
     "sinco_code": "8999",
@@ -4045,7 +4297,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 6.6,
     "formality_rate": 98.0,
-    "health_insurance_rate": 98.9
+    "health_insurance_rate": 98.9,
+    "health_protection_index": 97.8
   },
   {
     "sinco_code": "1526",
@@ -4061,7 +4314,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 47.4,
     "formality_rate": 94.1,
-    "health_insurance_rate": 94.1
+    "health_insurance_rate": 94.1,
+    "health_protection_index": 95.1
   },
   {
     "sinco_code": "2145",
@@ -4077,7 +4331,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 46.3,
     "formality_rate": 32.8,
-    "health_insurance_rate": 32.3
+    "health_insurance_rate": 32.3,
+    "health_protection_index": 36.5
   },
   {
     "sinco_code": "8143",
@@ -4093,7 +4348,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.6,
     "formality_rate": 99.2,
-    "health_insurance_rate": 99.2
+    "health_insurance_rate": 99.2,
+    "health_protection_index": 99.3
   },
   {
     "sinco_code": "4311",
@@ -4109,7 +4365,8 @@
     "education_mode": "Normal/Técnica",
     "pct_professional": 26.4,
     "formality_rate": 23.6,
-    "health_insurance_rate": 1.2
+    "health_insurance_rate": 1.2,
+    "health_protection_index": 5.3
   },
   {
     "sinco_code": "2281",
@@ -4125,7 +4382,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 87.3,
-    "health_insurance_rate": 69.6
+    "health_insurance_rate": 69.6,
+    "health_protection_index": 70.0
   },
   {
     "sinco_code": "7501",
@@ -4141,7 +4399,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 44.3,
     "formality_rate": 62.9,
-    "health_insurance_rate": 58.1
+    "health_insurance_rate": 58.1,
+    "health_protection_index": 61.6
   },
   {
     "sinco_code": "2541",
@@ -4157,7 +4416,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 43.4,
     "formality_rate": 29.5,
-    "health_insurance_rate": 21.4
+    "health_insurance_rate": 21.4,
+    "health_protection_index": 23.3
   },
   {
     "sinco_code": "2614",
@@ -4173,7 +4433,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 38.3,
     "formality_rate": 54.9,
-    "health_insurance_rate": 50.0
+    "health_insurance_rate": 50.0,
+    "health_protection_index": 52.7
   },
   {
     "sinco_code": "2438",
@@ -4189,7 +4450,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 84.4,
-    "health_insurance_rate": 83.7
+    "health_insurance_rate": 83.7,
+    "health_protection_index": 85.3
   },
   {
     "sinco_code": "2241",
@@ -4205,7 +4467,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 78.4,
-    "health_insurance_rate": 68.1
+    "health_insurance_rate": 68.1,
+    "health_protection_index": 67.5
   },
   {
     "sinco_code": "2625",
@@ -4221,7 +4484,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 38.4,
     "formality_rate": 64.5,
-    "health_insurance_rate": 58.0
+    "health_insurance_rate": 58.0,
+    "health_protection_index": 57.4
   },
   {
     "sinco_code": "8113",
@@ -4237,7 +4501,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 29.6,
     "formality_rate": 70.1,
-    "health_insurance_rate": 70.4
+    "health_insurance_rate": 70.4,
+    "health_protection_index": 72.3
   },
   {
     "sinco_code": "1423",
@@ -4253,7 +4518,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 35.2,
     "formality_rate": 76.8,
-    "health_insurance_rate": 36.4
+    "health_insurance_rate": 36.4,
+    "health_protection_index": 38.3
   },
   {
     "sinco_code": "5113",
@@ -4269,7 +4535,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.2,
     "formality_rate": 4.4,
-    "health_insurance_rate": 4.4
+    "health_insurance_rate": 4.4,
+    "health_protection_index": 10.7
   },
   {
     "sinco_code": "9651",
@@ -4285,7 +4552,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.6,
     "formality_rate": 15.8,
-    "health_insurance_rate": 16.2
+    "health_insurance_rate": 16.2,
+    "health_protection_index": 17.9
   },
   {
     "sinco_code": "2521",
@@ -4301,7 +4569,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 89.9,
     "formality_rate": 88.4,
-    "health_insurance_rate": 87.7
+    "health_insurance_rate": 87.7,
+    "health_protection_index": 87.7
   },
   {
     "sinco_code": "2221",
@@ -4317,7 +4586,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 93.8,
-    "health_insurance_rate": 75.1
+    "health_insurance_rate": 75.1,
+    "health_protection_index": 74.4
   },
   {
     "sinco_code": "8173",
@@ -4333,7 +4603,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 99.6
   },
   {
     "sinco_code": "9731",
@@ -4349,7 +4620,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 52.8,
     "formality_rate": 96.9,
-    "health_insurance_rate": 96.9
+    "health_insurance_rate": 96.9,
+    "health_protection_index": 97.5
   },
   {
     "sinco_code": "8155",
@@ -4365,7 +4637,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 77.7,
-    "health_insurance_rate": 77.7
+    "health_insurance_rate": 77.7,
+    "health_protection_index": 81.0
   },
   {
     "sinco_code": "2815",
@@ -4381,7 +4654,8 @@
     "education_mode": "Normal/Técnica",
     "pct_professional": 9.4,
     "formality_rate": 50.5,
-    "health_insurance_rate": 15.8
+    "health_insurance_rate": 15.8,
+    "health_protection_index": 18.6
   },
   {
     "sinco_code": "2622",
@@ -4397,7 +4671,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 18.6,
     "formality_rate": 79.0,
-    "health_insurance_rate": 75.2
+    "health_insurance_rate": 75.2,
+    "health_protection_index": 74.3
   },
   {
     "sinco_code": "1221",
@@ -4413,7 +4688,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 96.5,
     "formality_rate": 84.6,
-    "health_insurance_rate": 70.7
+    "health_insurance_rate": 70.7,
+    "health_protection_index": 73.7
   },
   {
     "sinco_code": "1712",
@@ -4429,7 +4705,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 27.5,
     "formality_rate": 78.9,
-    "health_insurance_rate": 70.4
+    "health_insurance_rate": 70.4,
+    "health_protection_index": 72.3
   },
   {
     "sinco_code": "2422",
@@ -4445,7 +4722,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 94.1,
-    "health_insurance_rate": 67.2
+    "health_insurance_rate": 67.2,
+    "health_protection_index": 67.6
   },
   {
     "sinco_code": "1321",
@@ -4461,7 +4739,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 99.3,
     "formality_rate": 85.9,
-    "health_insurance_rate": 81.3
+    "health_insurance_rate": 81.3,
+    "health_protection_index": 83.7
   },
   {
     "sinco_code": "5253",
@@ -4477,7 +4756,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 22.9,
     "formality_rate": 66.7,
-    "health_insurance_rate": 66.5
+    "health_insurance_rate": 66.5,
+    "health_protection_index": 65.5
   },
   {
     "sinco_code": "2624",
@@ -4493,7 +4773,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 59.3,
     "formality_rate": 57.7,
-    "health_insurance_rate": 55.3
+    "health_insurance_rate": 55.3,
+    "health_protection_index": 56.3
   },
   {
     "sinco_code": "2631",
@@ -4509,7 +4790,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 31.4,
     "formality_rate": 68.1,
-    "health_insurance_rate": 65.6
+    "health_insurance_rate": 65.6,
+    "health_protection_index": 66.4
   },
   {
     "sinco_code": "2813",
@@ -4525,7 +4807,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 39.5,
     "formality_rate": 82.0,
-    "health_insurance_rate": 82.9
+    "health_insurance_rate": 82.9,
+    "health_protection_index": 83.0
   },
   {
     "sinco_code": "9632",
@@ -4541,7 +4824,8 @@
     "education_mode": "Primaria",
     "pct_professional": 3.5,
     "formality_rate": 0.9,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "2645",
@@ -4557,7 +4841,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 47.1,
     "formality_rate": 97.2,
-    "health_insurance_rate": 91.7
+    "health_insurance_rate": 91.7,
+    "health_protection_index": 90.9
   },
   {
     "sinco_code": "7222",
@@ -4573,7 +4858,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 13.6,
     "formality_rate": 38.9,
-    "health_insurance_rate": 13.9
+    "health_insurance_rate": 13.9,
+    "health_protection_index": 16.1
   },
   {
     "sinco_code": "2161",
@@ -4589,7 +4875,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 48.2,
     "formality_rate": 16.5,
-    "health_insurance_rate": 1.4
+    "health_insurance_rate": 1.4,
+    "health_protection_index": 1.6
   },
   {
     "sinco_code": "2343",
@@ -4605,7 +4892,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 93.5,
     "formality_rate": 87.8,
-    "health_insurance_rate": 87.8
+    "health_insurance_rate": 87.8,
+    "health_protection_index": 89.7
   },
   {
     "sinco_code": "2153",
@@ -4621,7 +4909,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 83.2,
     "formality_rate": 63.4,
-    "health_insurance_rate": 47.6
+    "health_insurance_rate": 47.6,
+    "health_protection_index": 48.4
   },
   {
     "sinco_code": "3222",
@@ -4637,7 +4926,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 30.3,
     "formality_rate": 48.3,
-    "health_insurance_rate": 40.3
+    "health_insurance_rate": 40.3,
+    "health_protection_index": 40.6
   },
   {
     "sinco_code": "6125",
@@ -4653,7 +4943,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 4.4,
     "formality_rate": 15.5,
-    "health_insurance_rate": 15.3
+    "health_insurance_rate": 15.3,
+    "health_protection_index": 20.1
   },
   {
     "sinco_code": "1522",
@@ -4669,7 +4960,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 79.7,
     "formality_rate": 85.1,
-    "health_insurance_rate": 86.2
+    "health_insurance_rate": 86.2,
+    "health_protection_index": 88.1
   },
   {
     "sinco_code": "6225",
@@ -4685,7 +4977,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 12.1,
-    "health_insurance_rate": 6.4
+    "health_insurance_rate": 6.4,
+    "health_protection_index": 7.0
   },
   {
     "sinco_code": "8111",
@@ -4701,7 +4994,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.4,
     "formality_rate": 74.0,
-    "health_insurance_rate": 74.0
+    "health_insurance_rate": 74.0,
+    "health_protection_index": 77.8
   },
   {
     "sinco_code": "2523",
@@ -4717,7 +5011,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 70.1,
     "formality_rate": 85.4,
-    "health_insurance_rate": 91.7
+    "health_insurance_rate": 91.7,
+    "health_protection_index": 88.2
   },
   {
     "sinco_code": "7223",
@@ -4733,7 +5028,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 17.2,
     "formality_rate": 11.2,
-    "health_insurance_rate": 3.1
+    "health_insurance_rate": 3.1,
+    "health_protection_index": 7.7
   },
   {
     "sinco_code": "8171",
@@ -4749,7 +5045,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.8,
     "formality_rate": 94.9,
-    "health_insurance_rate": 94.9
+    "health_insurance_rate": 94.9,
+    "health_protection_index": 92.9
   },
   {
     "sinco_code": "1421",
@@ -4765,7 +5062,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 97.5,
     "formality_rate": 85.0,
-    "health_insurance_rate": 56.3
+    "health_insurance_rate": 56.3,
+    "health_protection_index": 57.0
   },
   {
     "sinco_code": "2426",
@@ -4781,7 +5079,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 73.8,
-    "health_insurance_rate": 63.6
+    "health_insurance_rate": 63.6,
+    "health_protection_index": 66.2
   },
   {
     "sinco_code": "6221",
@@ -4797,7 +5096,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 1.5,
     "formality_rate": 34.6,
-    "health_insurance_rate": 27.7
+    "health_insurance_rate": 27.7,
+    "health_protection_index": 29.6
   },
   {
     "sinco_code": "8331",
@@ -4813,7 +5113,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 29.8,
     "formality_rate": 100.0,
-    "health_insurance_rate": 90.5
+    "health_insurance_rate": 90.5,
+    "health_protection_index": 90.4
   },
   {
     "sinco_code": "7111",
@@ -4829,7 +5130,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 1.8,
     "formality_rate": 67.5,
-    "health_insurance_rate": 67.5
+    "health_insurance_rate": 67.5,
+    "health_protection_index": 66.9
   },
   {
     "sinco_code": "7123",
@@ -4845,7 +5147,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 47.0,
-    "health_insurance_rate": 47.0
+    "health_insurance_rate": 47.0,
+    "health_protection_index": 38.6
   },
   {
     "sinco_code": "2262",
@@ -4861,7 +5164,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 72.5,
-    "health_insurance_rate": 54.7
+    "health_insurance_rate": 54.7,
+    "health_protection_index": 58.2
   },
   {
     "sinco_code": "2542",
@@ -4877,7 +5181,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 87.1,
     "formality_rate": 94.2,
-    "health_insurance_rate": 74.3
+    "health_insurance_rate": 74.3,
+    "health_protection_index": 74.9
   },
   {
     "sinco_code": "2251",
@@ -4893,7 +5198,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 93.0,
-    "health_insurance_rate": 90.8
+    "health_insurance_rate": 90.8,
+    "health_protection_index": 89.2
   },
   {
     "sinco_code": "1224",
@@ -4909,7 +5215,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 90.4,
     "formality_rate": 87.5,
-    "health_insurance_rate": 77.9
+    "health_insurance_rate": 77.9,
+    "health_protection_index": 78.6
   },
   {
     "sinco_code": "8144",
@@ -4925,7 +5232,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 15.3,
     "formality_rate": 77.0,
-    "health_insurance_rate": 78.5
+    "health_insurance_rate": 78.5,
+    "health_protection_index": 79.2
   },
   {
     "sinco_code": "4232",
@@ -4941,7 +5249,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 25.5,
     "formality_rate": 69.9,
-    "health_insurance_rate": 69.9
+    "health_insurance_rate": 69.9,
+    "health_protection_index": 71.5
   },
   {
     "sinco_code": "7112",
@@ -4957,7 +5266,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 15.8,
     "formality_rate": 10.7,
-    "health_insurance_rate": 10.4
+    "health_insurance_rate": 10.4,
+    "health_protection_index": 12.6
   },
   {
     "sinco_code": "8199",
@@ -4973,7 +5283,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 4.9,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 99.5
   },
   {
     "sinco_code": "2826",
@@ -4989,7 +5300,8 @@
     "education_mode": "Sin escolaridad",
     "pct_professional": 4.9,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.2
   },
   {
     "sinco_code": "1621",
@@ -5005,7 +5317,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 86.7,
     "formality_rate": 100.0,
-    "health_insurance_rate": 99.1
+    "health_insurance_rate": 99.1,
+    "health_protection_index": 99.1
   },
   {
     "sinco_code": "7301",
@@ -5021,7 +5334,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 24.7,
     "formality_rate": 48.6,
-    "health_insurance_rate": 41.8
+    "health_insurance_rate": 41.8,
+    "health_protection_index": 49.5
   },
   {
     "sinco_code": "7214",
@@ -5037,7 +5351,8 @@
     "education_mode": "Primaria",
     "pct_professional": 15.7,
     "formality_rate": 74.3,
-    "health_insurance_rate": 73.8
+    "health_insurance_rate": 73.8,
+    "health_protection_index": 73.4
   },
   {
     "sinco_code": "2522",
@@ -5053,7 +5368,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 74.6,
     "formality_rate": 97.0,
-    "health_insurance_rate": 94.5
+    "health_insurance_rate": 94.5,
+    "health_protection_index": 95.1
   },
   {
     "sinco_code": "9239",
@@ -5069,7 +5385,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.5,
     "formality_rate": 84.9,
-    "health_insurance_rate": 84.9
+    "health_insurance_rate": 84.9,
+    "health_protection_index": 84.9
   },
   {
     "sinco_code": "1723",
@@ -5085,7 +5402,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 12.2,
     "formality_rate": 76.5,
-    "health_insurance_rate": 62.8
+    "health_insurance_rate": 62.8,
+    "health_protection_index": 67.3
   },
   {
     "sinco_code": "5412",
@@ -5101,7 +5419,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 4.3,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "1622",
@@ -5117,7 +5436,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 92.5,
     "formality_rate": 87.5,
-    "health_insurance_rate": 68.0
+    "health_insurance_rate": 68.0,
+    "health_protection_index": 69.9
   },
   {
     "sinco_code": "2272",
@@ -5133,7 +5453,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 85.8,
-    "health_insurance_rate": 84.1
+    "health_insurance_rate": 84.1,
+    "health_protection_index": 85.5
   },
   {
     "sinco_code": "2421",
@@ -5149,7 +5470,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 91.1,
-    "health_insurance_rate": 87.0
+    "health_insurance_rate": 87.0,
+    "health_protection_index": 86.6
   },
   {
     "sinco_code": "6128",
@@ -5165,7 +5487,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 2.2,
     "formality_rate": 73.0,
-    "health_insurance_rate": 73.0
+    "health_insurance_rate": 73.0,
+    "health_protection_index": 77.7
   },
   {
     "sinco_code": "2428",
@@ -5181,7 +5504,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 98.2,
     "formality_rate": 97.2,
-    "health_insurance_rate": 90.6
+    "health_insurance_rate": 90.6,
+    "health_protection_index": 90.9
   },
   {
     "sinco_code": "2563",
@@ -5197,7 +5521,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 56.4,
     "formality_rate": 10.7,
-    "health_insurance_rate": 4.6
+    "health_insurance_rate": 4.6,
+    "health_protection_index": 7.0
   },
   {
     "sinco_code": "2662",
@@ -5213,7 +5538,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 53.2,
     "formality_rate": 93.1,
-    "health_insurance_rate": 95.8
+    "health_insurance_rate": 95.8,
+    "health_protection_index": 93.1
   },
   {
     "sinco_code": "1613",
@@ -5229,7 +5555,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 44.7,
     "formality_rate": 85.6,
-    "health_insurance_rate": 75.7
+    "health_insurance_rate": 75.7,
+    "health_protection_index": 77.8
   },
   {
     "sinco_code": "1322",
@@ -5245,7 +5572,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 99.4,
     "formality_rate": 82.2,
-    "health_insurance_rate": 80.0
+    "health_insurance_rate": 80.0,
+    "health_protection_index": 81.5
   },
   {
     "sinco_code": "1222",
@@ -5261,7 +5589,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 79.7,
     "formality_rate": 78.0,
-    "health_insurance_rate": 74.4
+    "health_insurance_rate": 74.4,
+    "health_protection_index": 76.3
   },
   {
     "sinco_code": "6226",
@@ -5277,7 +5606,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 15.7,
-    "health_insurance_rate": 8.0
+    "health_insurance_rate": 8.0,
+    "health_protection_index": 8.6
   },
   {
     "sinco_code": "8112",
@@ -5293,7 +5623,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 18.5,
     "formality_rate": 95.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 98.0
   },
   {
     "sinco_code": "2636",
@@ -5309,7 +5640,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 29.2,
     "formality_rate": 60.8,
-    "health_insurance_rate": 33.5
+    "health_insurance_rate": 33.5,
+    "health_protection_index": 34.2
   },
   {
     "sinco_code": "9642",
@@ -5325,7 +5657,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 12.4,
     "formality_rate": 26.0,
-    "health_insurance_rate": 20.4
+    "health_insurance_rate": 20.4,
+    "health_protection_index": 24.6
   },
   {
     "sinco_code": "2524",
@@ -5341,7 +5674,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 70.4,
     "formality_rate": 73.1,
-    "health_insurance_rate": 73.1
+    "health_insurance_rate": 73.1,
+    "health_protection_index": 77.1
   },
   {
     "sinco_code": "3114",
@@ -5357,7 +5691,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 33.8,
     "formality_rate": 37.0,
-    "health_insurance_rate": 27.8
+    "health_insurance_rate": 27.8,
+    "health_protection_index": 29.6
   },
   {
     "sinco_code": "1311",
@@ -5373,7 +5708,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 56.7,
     "formality_rate": 63.9,
-    "health_insurance_rate": 36.5
+    "health_insurance_rate": 36.5,
+    "health_protection_index": 38.1
   },
   {
     "sinco_code": "9211",
@@ -5389,7 +5725,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.4,
     "formality_rate": 59.8,
-    "health_insurance_rate": 59.8
+    "health_insurance_rate": 59.8,
+    "health_protection_index": 61.3
   },
   {
     "sinco_code": "6201",
@@ -5405,7 +5742,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 36.4,
     "formality_rate": 49.4,
-    "health_insurance_rate": 47.3
+    "health_insurance_rate": 47.3,
+    "health_protection_index": 50.3
   },
   {
     "sinco_code": "8114",
@@ -5421,7 +5759,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.7,
     "formality_rate": 69.0,
-    "health_insurance_rate": 70.0
+    "health_insurance_rate": 70.0,
+    "health_protection_index": 70.9
   },
   {
     "sinco_code": "1113",
@@ -5437,7 +5776,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 58.9,
     "formality_rate": 30.1,
-    "health_insurance_rate": 32.2
+    "health_insurance_rate": 32.2,
+    "health_protection_index": 39.9
   },
   {
     "sinco_code": "9321",
@@ -5453,7 +5793,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.1
   },
   {
     "sinco_code": "2164",
@@ -5469,7 +5810,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 31.8,
     "formality_rate": 80.8,
-    "health_insurance_rate": 52.1
+    "health_insurance_rate": 52.1,
+    "health_protection_index": 47.7
   },
   {
     "sinco_code": "2342",
@@ -5485,7 +5827,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 97.9,
     "formality_rate": 87.8,
-    "health_insurance_rate": 88.3
+    "health_insurance_rate": 88.3,
+    "health_protection_index": 89.0
   },
   {
     "sinco_code": "1721",
@@ -5501,7 +5844,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 88.5,
     "formality_rate": 80.5,
-    "health_insurance_rate": 60.8
+    "health_insurance_rate": 60.8,
+    "health_protection_index": 61.0
   },
   {
     "sinco_code": "6212",
@@ -5517,7 +5861,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 10.5,
     "formality_rate": 70.9,
-    "health_insurance_rate": 65.4
+    "health_insurance_rate": 65.4,
+    "health_protection_index": 65.2
   },
   {
     "sinco_code": "2333",
@@ -5533,7 +5878,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 57.0,
     "formality_rate": 22.9,
-    "health_insurance_rate": 25.6
+    "health_insurance_rate": 25.6,
+    "health_protection_index": 30.3
   },
   {
     "sinco_code": "7999",
@@ -5549,7 +5895,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 27.8,
     "formality_rate": 24.4,
-    "health_insurance_rate": 7.9
+    "health_insurance_rate": 7.9,
+    "health_protection_index": 7.9
   },
   {
     "sinco_code": "2423",
@@ -5565,7 +5912,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 95.5,
-    "health_insurance_rate": 73.6
+    "health_insurance_rate": 73.6,
+    "health_protection_index": 71.0
   },
   {
     "sinco_code": "2144",
@@ -5581,7 +5929,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 97.6,
-    "health_insurance_rate": 97.6
+    "health_insurance_rate": 97.6,
+    "health_protection_index": 96.4
   },
   {
     "sinco_code": "1132",
@@ -5597,7 +5946,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 24.4,
     "formality_rate": 86.0,
-    "health_insurance_rate": 86.0
+    "health_insurance_rate": 86.0,
+    "health_protection_index": 87.9
   },
   {
     "sinco_code": "9624",
@@ -5613,7 +5963,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 7.8,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "2991",
@@ -5629,7 +5980,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 77.6,
     "formality_rate": 76.7,
-    "health_insurance_rate": 10.8
+    "health_insurance_rate": 10.8,
+    "health_protection_index": 11.4
   },
   {
     "sinco_code": "8135",
@@ -5645,7 +5997,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 65.6,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "7352",
@@ -5661,7 +6014,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.7,
     "formality_rate": 37.4,
-    "health_insurance_rate": 24.5
+    "health_insurance_rate": 24.5,
+    "health_protection_index": 27.5
   },
   {
     "sinco_code": "5201",
@@ -5677,7 +6031,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 34.3,
     "formality_rate": 52.3,
-    "health_insurance_rate": 33.1
+    "health_insurance_rate": 33.1,
+    "health_protection_index": 36.3
   },
   {
     "sinco_code": "2432",
@@ -5693,7 +6048,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 66.7,
-    "health_insurance_rate": 47.0
+    "health_insurance_rate": 47.0,
+    "health_protection_index": 44.4
   },
   {
     "sinco_code": "2816",
@@ -5709,7 +6065,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 36.2,
     "formality_rate": 54.6,
-    "health_insurance_rate": 41.3
+    "health_insurance_rate": 41.3,
+    "health_protection_index": 43.8
   },
   {
     "sinco_code": "9124",
@@ -5725,7 +6082,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 0.7,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "7122",
@@ -5741,7 +6099,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 16.6,
     "formality_rate": 18.9,
-    "health_insurance_rate": 20.5
+    "health_insurance_rate": 20.5,
+    "health_protection_index": 16.0
   },
   {
     "sinco_code": "2212",
@@ -5757,7 +6116,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 98.9,
-    "health_insurance_rate": 98.9
+    "health_insurance_rate": 98.9,
+    "health_protection_index": 99.1
   },
   {
     "sinco_code": "8134",
@@ -5773,7 +6133,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 6.0,
     "formality_rate": 61.6,
-    "health_insurance_rate": 61.6
+    "health_insurance_rate": 61.6,
+    "health_protection_index": 64.5
   },
   {
     "sinco_code": "8321",
@@ -5789,7 +6150,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 25.8,
     "formality_rate": 64.3,
-    "health_insurance_rate": 63.1
+    "health_insurance_rate": 63.1,
+    "health_protection_index": 64.0
   },
   {
     "sinco_code": "2223",
@@ -5805,7 +6167,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 77.0,
-    "health_insurance_rate": 62.4
+    "health_insurance_rate": 62.4,
+    "health_protection_index": 61.9
   },
   {
     "sinco_code": "2133",
@@ -5821,7 +6184,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 83.5,
-    "health_insurance_rate": 79.2
+    "health_insurance_rate": 79.2,
+    "health_protection_index": 81.0
   },
   {
     "sinco_code": "6227",
@@ -5837,7 +6201,8 @@
     "education_mode": "Primaria",
     "pct_professional": 3.8,
     "formality_rate": 81.6,
-    "health_insurance_rate": 4.8
+    "health_insurance_rate": 4.8,
+    "health_protection_index": 5.8
   },
   {
     "sinco_code": "2131",
@@ -5853,7 +6218,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 59.1,
-    "health_insurance_rate": 46.5
+    "health_insurance_rate": 46.5,
+    "health_protection_index": 50.9
   },
   {
     "sinco_code": "6224",
@@ -5869,7 +6235,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.0,
     "formality_rate": 29.0,
-    "health_insurance_rate": 11.7
+    "health_insurance_rate": 11.7,
+    "health_protection_index": 11.8
   },
   {
     "sinco_code": "8324",
@@ -5885,7 +6252,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 9.5,
     "formality_rate": 13.2,
-    "health_insurance_rate": 11.7
+    "health_insurance_rate": 11.7,
+    "health_protection_index": 14.0
   },
   {
     "sinco_code": "1226",
@@ -5901,7 +6269,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 62.7,
     "formality_rate": 85.3,
-    "health_insurance_rate": 84.6
+    "health_insurance_rate": 84.6,
+    "health_protection_index": 86.9
   },
   {
     "sinco_code": "1313",
@@ -5917,7 +6286,8 @@
     "education_mode": "Maestría",
     "pct_professional": 67.7,
     "formality_rate": 89.4,
-    "health_insurance_rate": 89.4
+    "health_insurance_rate": 89.4,
+    "health_protection_index": 91.4
   },
   {
     "sinco_code": "2533",
@@ -5933,7 +6303,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 44.1,
     "formality_rate": 31.0,
-    "health_insurance_rate": 31.0
+    "health_insurance_rate": 31.0,
+    "health_protection_index": 32.4
   },
   {
     "sinco_code": "7331",
@@ -5949,7 +6320,8 @@
     "education_mode": "Primaria",
     "pct_professional": 1.8,
     "formality_rate": 18.5,
-    "health_insurance_rate": 16.7
+    "health_insurance_rate": 16.7,
+    "health_protection_index": 17.4
   },
   {
     "sinco_code": "9511",
@@ -5965,7 +6337,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 5.7,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 3.7
   },
   {
     "sinco_code": "2817",
@@ -5981,7 +6354,8 @@
     "education_mode": "Normal/Técnica",
     "pct_professional": 26.0,
     "formality_rate": 65.1,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "2553",
@@ -5997,7 +6371,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 39.2,
     "formality_rate": 53.4,
-    "health_insurance_rate": 50.9
+    "health_insurance_rate": 50.9,
+    "health_protection_index": 45.2
   },
   {
     "sinco_code": "2151",
@@ -6013,7 +6388,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 85.2,
     "formality_rate": 15.6,
-    "health_insurance_rate": 1.6
+    "health_insurance_rate": 1.6,
+    "health_protection_index": 11.5
   },
   {
     "sinco_code": "2175",
@@ -6029,7 +6405,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 90.6,
     "formality_rate": 80.7,
-    "health_insurance_rate": 43.1
+    "health_insurance_rate": 43.1,
+    "health_protection_index": 39.8
   },
   {
     "sinco_code": "2174",
@@ -6045,7 +6422,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 24.6,
     "formality_rate": 41.1,
-    "health_insurance_rate": 28.5
+    "health_insurance_rate": 28.5,
+    "health_protection_index": 31.0
   },
   {
     "sinco_code": "9122",
@@ -6061,7 +6439,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 6.6,
-    "health_insurance_rate": 6.6
+    "health_insurance_rate": 6.6,
+    "health_protection_index": 7.7
   },
   {
     "sinco_code": "1121",
@@ -6077,7 +6456,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 96.1,
     "formality_rate": 88.1,
-    "health_insurance_rate": 88.1
+    "health_insurance_rate": 88.1,
+    "health_protection_index": 89.4
   },
   {
     "sinco_code": "6126",
@@ -6093,7 +6473,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 5.7,
     "formality_rate": 41.2,
-    "health_insurance_rate": 3.6
+    "health_insurance_rate": 3.6,
+    "health_protection_index": 8.2
   },
   {
     "sinco_code": "2211",
@@ -6109,7 +6490,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 68.5,
-    "health_insurance_rate": 68.5
+    "health_insurance_rate": 68.5,
+    "health_protection_index": 67.8
   },
   {
     "sinco_code": "5251",
@@ -6125,7 +6507,8 @@
     "education_mode": "Maestría",
     "pct_professional": 60.2,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "7344",
@@ -6141,7 +6524,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.8,
     "formality_rate": 18.8,
-    "health_insurance_rate": 18.8
+    "health_insurance_rate": 18.8,
+    "health_protection_index": 24.8
   },
   {
     "sinco_code": "9721",
@@ -6157,7 +6541,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 9.4,
     "formality_rate": 77.8,
-    "health_insurance_rate": 81.4
+    "health_insurance_rate": 81.4,
+    "health_protection_index": 81.6
   },
   {
     "sinco_code": "7201",
@@ -6173,7 +6558,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 32.4,
     "formality_rate": 88.6,
-    "health_insurance_rate": 85.8
+    "health_insurance_rate": 85.8,
+    "health_protection_index": 83.8
   },
   {
     "sinco_code": "2163",
@@ -6189,7 +6575,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 86.9,
     "formality_rate": 53.5,
-    "health_insurance_rate": 50.7
+    "health_insurance_rate": 50.7,
+    "health_protection_index": 50.7
   },
   {
     "sinco_code": "2635",
@@ -6205,7 +6592,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 19.7,
     "formality_rate": 74.9,
-    "health_insurance_rate": 74.9
+    "health_insurance_rate": 74.9,
+    "health_protection_index": 73.7
   },
   {
     "sinco_code": "2424",
@@ -6221,7 +6609,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 79.3
+    "health_insurance_rate": 79.3,
+    "health_protection_index": 79.3
   },
   {
     "sinco_code": "4233",
@@ -6237,7 +6626,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 41.2,
-    "health_insurance_rate": 41.2
+    "health_insurance_rate": 41.2,
+    "health_protection_index": 40.0
   },
   {
     "sinco_code": "2652",
@@ -6253,7 +6643,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 26.7,
     "formality_rate": 83.0,
-    "health_insurance_rate": 81.4
+    "health_insurance_rate": 81.4,
+    "health_protection_index": 82.9
   },
   {
     "sinco_code": "2339",
@@ -6269,7 +6660,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 76.4,
     "formality_rate": 81.9,
-    "health_insurance_rate": 85.5
+    "health_insurance_rate": 85.5,
+    "health_protection_index": 85.5
   },
   {
     "sinco_code": "1611",
@@ -6285,7 +6677,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 76.7,
     "formality_rate": 62.8,
-    "health_insurance_rate": 62.8
+    "health_insurance_rate": 62.8,
+    "health_protection_index": 66.6
   },
   {
     "sinco_code": "8181",
@@ -6301,7 +6694,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 24.6,
     "formality_rate": 96.9,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 97.5
   },
   {
     "sinco_code": "3232",
@@ -6317,7 +6711,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 93.3,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "5231",
@@ -6333,7 +6728,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 68.6,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "1324",
@@ -6349,7 +6745,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 54.1,
-    "health_insurance_rate": 54.1
+    "health_insurance_rate": 54.1,
+    "health_protection_index": 56.9
   },
   {
     "sinco_code": "2623",
@@ -6365,7 +6762,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 90.1,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 96.3
   },
   {
     "sinco_code": "1135",
@@ -6381,7 +6779,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 56.3,
     "formality_rate": 61.4,
-    "health_insurance_rate": 56.0
+    "health_insurance_rate": 56.0,
+    "health_protection_index": 51.2
   },
   {
     "sinco_code": "1624",
@@ -6397,7 +6796,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "8322",
@@ -6413,7 +6813,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 11.3,
     "formality_rate": 67.2,
-    "health_insurance_rate": 67.2
+    "health_insurance_rate": 67.2,
+    "health_protection_index": 65.5
   },
   {
     "sinco_code": "5299",
@@ -6429,7 +6830,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.0,
     "formality_rate": 11.7,
-    "health_insurance_rate": 14.7
+    "health_insurance_rate": 14.7,
+    "health_protection_index": 14.7
   },
   {
     "sinco_code": "8349",
@@ -6445,7 +6847,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 8.1,
     "formality_rate": 69.9,
-    "health_insurance_rate": 69.9
+    "health_insurance_rate": 69.9,
+    "health_protection_index": 75.5
   },
   {
     "sinco_code": "2551",
@@ -6461,7 +6864,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 47.1,
     "formality_rate": 90.4,
-    "health_insurance_rate": 90.4
+    "health_insurance_rate": 90.4,
+    "health_protection_index": 95.1
   },
   {
     "sinco_code": "9634",
@@ -6477,7 +6881,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "2435",
@@ -6493,7 +6898,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 32.5,
-    "health_insurance_rate": 4.2
+    "health_insurance_rate": 4.2,
+    "health_protection_index": 4.2
   },
   {
     "sinco_code": "2611",
@@ -6509,7 +6915,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 27.2,
     "formality_rate": 96.4,
-    "health_insurance_rate": 96.4
+    "health_insurance_rate": 96.4,
+    "health_protection_index": 96.4
   },
   {
     "sinco_code": "6222",
@@ -6525,7 +6932,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "9312",
@@ -6541,7 +6949,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 14.0,
     "formality_rate": 93.2,
-    "health_insurance_rate": 95.1
+    "health_insurance_rate": 95.1,
+    "health_protection_index": 93.9
   },
   {
     "sinco_code": "6129",
@@ -6557,7 +6966,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 23.6,
-    "health_insurance_rate": 16.0
+    "health_insurance_rate": 16.0,
+    "health_protection_index": 12.3
   },
   {
     "sinco_code": "2254",
@@ -6573,7 +6983,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 95.4
+    "health_insurance_rate": 95.4,
+    "health_protection_index": 90.8
   },
   {
     "sinco_code": "2639",
@@ -6589,7 +7000,8 @@
     "education_mode": "Primaria",
     "pct_professional": 7.5,
     "formality_rate": 83.6,
-    "health_insurance_rate": 83.4
+    "health_insurance_rate": 83.4,
+    "health_protection_index": 84.3
   },
   {
     "sinco_code": "2132",
@@ -6605,7 +7017,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 72.4,
-    "health_insurance_rate": 69.5
+    "health_insurance_rate": 69.5,
+    "health_protection_index": 73.3
   },
   {
     "sinco_code": "2561",
@@ -6621,7 +7034,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 12.1,
     "formality_rate": 23.5,
-    "health_insurance_rate": 25.8
+    "health_insurance_rate": 25.8,
+    "health_protection_index": 26.7
   },
   {
     "sinco_code": "9212",
@@ -6637,7 +7051,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 29.7,
     "formality_rate": 81.5,
-    "health_insurance_rate": 81.5
+    "health_insurance_rate": 81.5,
+    "health_protection_index": 79.6
   },
   {
     "sinco_code": "2431",
@@ -6653,7 +7068,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 81.4,
-    "health_insurance_rate": 87.7
+    "health_insurance_rate": 87.7,
+    "health_protection_index": 80.8
   },
   {
     "sinco_code": "2399",
@@ -6669,7 +7085,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 59.6,
     "formality_rate": 43.8,
-    "health_insurance_rate": 52.0
+    "health_insurance_rate": 52.0,
+    "health_protection_index": 51.6
   },
   {
     "sinco_code": "1131",
@@ -6685,7 +7102,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 78.7,
     "formality_rate": 46.8,
-    "health_insurance_rate": 46.8
+    "health_insurance_rate": 46.8,
+    "health_protection_index": 50.3
   },
   {
     "sinco_code": "6213",
@@ -6701,7 +7119,8 @@
     "education_mode": "Primaria",
     "pct_professional": 17.1,
     "formality_rate": 35.3,
-    "health_insurance_rate": 32.7
+    "health_insurance_rate": 32.7,
+    "health_protection_index": 33.6
   },
   {
     "sinco_code": "1999",
@@ -6717,7 +7136,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 55.5,
     "formality_rate": 43.3,
-    "health_insurance_rate": 51.8
+    "health_insurance_rate": 51.8,
+    "health_protection_index": 54.1
   },
   {
     "sinco_code": "2613",
@@ -6733,7 +7153,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 60.7,
     "formality_rate": 80.2,
-    "health_insurance_rate": 73.0
+    "health_insurance_rate": 73.0,
+    "health_protection_index": 74.4
   },
   {
     "sinco_code": "2713",
@@ -6749,7 +7170,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 46.1,
     "formality_rate": 44.0,
-    "health_insurance_rate": 44.0
+    "health_insurance_rate": 44.0,
+    "health_protection_index": 47.1
   },
   {
     "sinco_code": "7113",
@@ -6765,7 +7187,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 12.5,
     "formality_rate": 84.2,
-    "health_insurance_rate": 84.2
+    "health_insurance_rate": 84.2,
+    "health_protection_index": 84.8
   },
   {
     "sinco_code": "7401",
@@ -6781,7 +7204,8 @@
     "education_mode": "Primaria",
     "pct_professional": 22.5,
     "formality_rate": 68.0,
-    "health_insurance_rate": 40.3
+    "health_insurance_rate": 40.3,
+    "health_protection_index": 40.3
   },
   {
     "sinco_code": "7516",
@@ -6797,7 +7221,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "2661",
@@ -6813,7 +7238,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 58.2,
     "formality_rate": 93.7,
-    "health_insurance_rate": 93.7
+    "health_insurance_rate": 93.7,
+    "health_protection_index": 94.9
   },
   {
     "sinco_code": "2341",
@@ -6829,7 +7255,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 96.8,
     "formality_rate": 88.2,
-    "health_insurance_rate": 95.4
+    "health_insurance_rate": 95.4,
+    "health_protection_index": 84.1
   },
   {
     "sinco_code": "3112",
@@ -6845,7 +7272,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 49.9,
     "formality_rate": 34.9,
-    "health_insurance_rate": 34.9
+    "health_insurance_rate": 34.9,
+    "health_protection_index": 46.5
   },
   {
     "sinco_code": "7599",
@@ -6861,7 +7289,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 6.0,
     "formality_rate": 8.6,
-    "health_insurance_rate": 8.6
+    "health_insurance_rate": 8.6,
+    "health_protection_index": 12.4
   },
   {
     "sinco_code": "9322",
@@ -6877,7 +7306,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 0.0,
     "formality_rate": 42.9,
-    "health_insurance_rate": 42.9
+    "health_insurance_rate": 42.9,
+    "health_protection_index": 42.9
   },
   {
     "sinco_code": "2814",
@@ -6893,7 +7323,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 3.4,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 99.2
   },
   {
     "sinco_code": "1629",
@@ -6909,7 +7340,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "9664",
@@ -6925,7 +7357,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "5401",
@@ -6941,7 +7374,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 47.8,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "7399",
@@ -6957,7 +7391,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 36.6,
     "formality_rate": 9.1,
-    "health_insurance_rate": 9.1
+    "health_insurance_rate": 9.1,
+    "health_protection_index": 9.1
   },
   {
     "sinco_code": "1329",
@@ -6973,7 +7408,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 89.1,
     "formality_rate": 95.9,
-    "health_insurance_rate": 10.3
+    "health_insurance_rate": 10.3,
+    "health_protection_index": 10.3
   },
   {
     "sinco_code": "1612",
@@ -6989,7 +7425,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 77.1,
     "formality_rate": 100.0,
-    "health_insurance_rate": 86.9
+    "health_insurance_rate": 86.9,
+    "health_protection_index": 86.9
   },
   {
     "sinco_code": "2233",
@@ -7005,7 +7442,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 19.5,
-    "health_insurance_rate": 9.9
+    "health_insurance_rate": 9.9,
+    "health_protection_index": 19.8
   },
   {
     "sinco_code": "2136",
@@ -7021,7 +7459,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 96.7,
-    "health_insurance_rate": 92.9
+    "health_insurance_rate": 92.9,
+    "health_protection_index": 89.6
   },
   {
     "sinco_code": "2434",
@@ -7037,7 +7476,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 70.0
+    "health_insurance_rate": 70.0,
+    "health_protection_index": 70.0
   },
   {
     "sinco_code": "6231",
@@ -7053,7 +7493,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "2113",
@@ -7069,7 +7510,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "1111",
@@ -7085,7 +7527,8 @@
     "education_mode": "Doctorado",
     "pct_professional": 89.9,
     "formality_rate": 94.3,
-    "health_insurance_rate": 97.8
+    "health_insurance_rate": 97.8,
+    "health_protection_index": 95.4
   },
   {
     "sinco_code": "5411",
@@ -7101,7 +7544,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 17.2,
     "formality_rate": 100.0,
-    "health_insurance_rate": 92.6
+    "health_insurance_rate": 92.6,
+    "health_protection_index": 92.6
   },
   {
     "sinco_code": "1312",
@@ -7117,7 +7561,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 100.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "1619",
@@ -7133,7 +7578,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 58.1,
     "formality_rate": 58.1,
-    "health_insurance_rate": 58.1
+    "health_insurance_rate": 58.1,
+    "health_protection_index": 58.1
   },
   {
     "sinco_code": "5319",
@@ -7149,7 +7595,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 15.5,
     "formality_rate": 79.5,
-    "health_insurance_rate": 79.5
+    "health_insurance_rate": 79.5,
+    "health_protection_index": 77.8
   },
   {
     "sinco_code": "4999",
@@ -7165,7 +7612,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 3.9,
     "formality_rate": 19.0,
-    "health_insurance_rate": 19.0
+    "health_insurance_rate": 19.0,
+    "health_protection_index": 19.0
   },
   {
     "sinco_code": "9599",
@@ -7181,7 +7629,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 15.9,
     "formality_rate": 1.8,
-    "health_insurance_rate": 1.8
+    "health_insurance_rate": 1.8,
+    "health_protection_index": 7.2
   },
   {
     "sinco_code": "7199",
@@ -7197,7 +7646,8 @@
     "education_mode": "Primaria",
     "pct_professional": 0.0,
     "formality_rate": 5.0,
-    "health_insurance_rate": 7.4
+    "health_insurance_rate": 7.4,
+    "health_protection_index": 11.5
   },
   {
     "sinco_code": "6127",
@@ -7213,7 +7663,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 42.0,
     "formality_rate": 65.3,
-    "health_insurance_rate": 61.9
+    "health_insurance_rate": 61.9,
+    "health_protection_index": 61.9
   },
   {
     "sinco_code": "2171",
@@ -7229,7 +7680,8 @@
     "education_mode": "Profesional (licenciatura)",
     "pct_professional": 65.9,
     "formality_rate": 46.5,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 0.0
   },
   {
     "sinco_code": "5252",
@@ -7245,7 +7697,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 0.0,
     "formality_rate": 0.0,
-    "health_insurance_rate": 0.0
+    "health_insurance_rate": 0.0,
+    "health_protection_index": 5.8
   },
   {
     "sinco_code": "9899",
@@ -7261,7 +7714,8 @@
     "education_mode": "Secundaria",
     "pct_professional": 7.0,
     "formality_rate": 49.4,
-    "health_insurance_rate": 49.4
+    "health_insurance_rate": 49.4,
+    "health_protection_index": 58.1
   },
   {
     "sinco_code": "8162",
@@ -7277,7 +7731,8 @@
     "education_mode": "Preparatoria",
     "pct_professional": 0.0,
     "formality_rate": 100.0,
-    "health_insurance_rate": 100.0
+    "health_insurance_rate": 100.0,
+    "health_protection_index": 100.0
   },
   {
     "sinco_code": "2427",
@@ -7293,7 +7748,8 @@
     "education_mode": "Maestría",
     "pct_professional": 100.0,
     "formality_rate": 70.0,
-    "health_insurance_rate": 38.7
+    "health_insurance_rate": 38.7,
+    "health_protection_index": 38.7
   },
   {
     "sinco_code": "2992",
@@ -7309,6 +7765,7 @@
     "education_mode": "Preparatoria",
     "pct_professional": 9.8,
     "formality_rate": 77.1,
-    "health_insurance_rate": 32.9
+    "health_insurance_rate": 32.9,
+    "health_protection_index": 32.9
   }
 ]
