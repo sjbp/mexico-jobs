@@ -236,8 +236,8 @@ canvas#canvas {
       <a href="https://github.com/sjbp/mexico-jobs">GitHub</a>
       <a href="https://github.com/karpathy/jobs">Inspirado en karpathy/jobs</a>
     </div>
-    <p>Visualizaci&oacute;n de <b id="introOccCount">&mdash;</b> ocupaciones de la <a href="https://www.inegi.org.mx/programas/enoe/15ymas/">Encuesta Nacional de Ocupaci&oacute;n y Empleo (ENOE)</a> de INEGI, cubriendo <b id="introJobCount">&mdash;</b> empleos en la econom&iacute;a mexicana (2024 T4). El <b>&aacute;rea</b> de cada rect&aacute;ngulo es proporcional al empleo total. El <b>color</b> muestra la m&eacute;trica seleccionada.</p>
-    <p><b>Datos:</b> Microdatos de la ENOE 2024 T4, procesados con ponderadores de expansi&oacute;n. Clasificaci&oacute;n de ocupaciones: SINCO 2019 (Sistema Nacional de Clasificaci&oacute;n de Ocupaciones) a 4 d&iacute;gitos. Ingresos son auto-reportados (encuesta de hogares, no registros de empleadores).</p>
+    <p>Visualizaci&oacute;n de <b id="introOccCount">&mdash;</b> ocupaciones de la <a href="https://www.inegi.org.mx/programas/enoe/15ymas/">Encuesta Nacional de Ocupaci&oacute;n y Empleo (ENOE)</a> de INEGI, cubriendo <b id="introJobCount">&mdash;</b> empleos en la econom&iacute;a mexicana (2025 T4). El <b>&aacute;rea</b> de cada rect&aacute;ngulo es proporcional al empleo total. El <b>color</b> muestra la m&eacute;trica seleccionada.</p>
+    <p><b>Datos:</b> Microdatos de la ENOE 2025 T4, procesados con ponderadores de expansi&oacute;n. Clasificaci&oacute;n de ocupaciones: SINCO 2019 (Sistema Nacional de Clasificaci&oacute;n de Ocupaciones) a 4 d&iacute;gitos. Ingresos son auto-reportados (encuesta de hogares, no registros de empleadores).</p>
   </div>
 
   <div class="controls-row">
@@ -415,7 +415,7 @@ function tileSubInfo(r) {
 // ── Methodology descriptions ──────────────────────────────────────────
 
 const METHODOLOGY = {
-  pay: "Ingreso mensual mediano por ocupaci\u00f3n, calculado a partir de microdatos de la ENOE 2024 T4. Se aplican ponderadores de expansi\u00f3n trimestral (fac_tri) para obtener medianas ponderadas a nivel poblacional. Los ingresos son auto-reportados por los encuestados, no registros de empleadores.",
+  pay: "Ingreso mensual mediano por ocupaci\u00f3n, calculado a partir de microdatos de la ENOE 2025 T4. Se aplican ponderadores de expansi\u00f3n trimestral (fac_tri) para obtener medianas ponderadas a nivel poblacional. Los ingresos son auto-reportados por los encuestados, no registros de empleadores.",
   education: "Nivel educativo m\u00e1s frecuente (moda ponderada) entre los trabajadores de cada ocupaci\u00f3n, seg\u00fan la variable cs_p13_1 de la ENOE. Se agrupan los niveles originales de INEGI (preescolar a doctorado) en 8 categor\u00edas para la visualizaci\u00f3n.",
   formality: "Porcentaje de trabajadores con empleo formal por ocupaci\u00f3n, derivado de la variable emp_ppal de la ENOE (clasificaci\u00f3n de empleos formales e informales de la actividad principal). El empleo formal implica registro ante instituciones de seguridad social.",
   health_protection: "\u00cdndice compuesto (0-100) basado en la variable medica5c de la ENOE, que clasifica las prestaciones de salud de cada trabajador: 100 = acceso a instituciones de salud + otras prestaciones, 70 = solo acceso a salud, 20 = otras prestaciones sin salud, 0 = sin prestaciones. El \u00edndice es el promedio ponderado por ocupaci\u00f3n.",

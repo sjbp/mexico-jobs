@@ -20,10 +20,10 @@ import statistics
 
 # Paths
 BASE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(BASE, "data", "enoe", "enoe_2024_4t")
-SDEM_CSV = os.path.join(DATA, "conjunto_de_datos_sdem_enoe_2024_4t", "conjunto_de_datos", "conjunto_de_datos_sdem_enoe_2024_4t.csv")
-COE1_CSV = os.path.join(DATA, "conjunto_de_datos_coe1_enoe_2024_4t", "conjunto_de_datos", "conjunto_de_datos_coe1_enoe_2024_4t.csv")
-SINCO_CSV = os.path.join(DATA, "conjunto_de_datos_coe1_enoe_2024_4t", "catalogos", "p3.csv")
+DATA = os.path.join(BASE, "data", "enoe", "enoe_2025_4t")
+SDEM_CSV = os.path.join(DATA, "conjunto_de_datos_sdem_enoe_2025_4t", "conjunto_de_datos", "conjunto_de_datos_sdem_enoe_2025_4t.csv")
+COE1_CSV = os.path.join(DATA, "conjunto_de_datos_coe1_enoe_2025_4t", "conjunto_de_datos", "conjunto_de_datos_coe1_enoe_2025_4t.csv")
+SINCO_CSV = os.path.join(DATA, "conjunto_de_datos_coe1_enoe_2025_4t", "catalogos", "p3.csv")
 
 # SINCO major division names (first digit)
 SINCO_DIVISIONS = {
@@ -80,16 +80,16 @@ EDU_LABELS = {
 
 # Simplified education levels for the viz
 EDU_SIMPLIFIED = {
-    "0": "Sin escolaridad",
-    "1": "Sin escolaridad",
-    "2": "Primaria",
-    "3": "Secundaria",
-    "4": "Preparatoria",
-    "5": "Normal/Técnica",
-    "6": "Normal/Técnica",
-    "7": "Profesional (licenciatura)",
-    "8": "Maestría",
-    "9": "Doctorado",
+    "0": "Sin escolaridad",  "00": "Sin escolaridad",
+    "1": "Sin escolaridad",  "01": "Sin escolaridad",
+    "2": "Primaria",         "02": "Primaria",
+    "3": "Secundaria",       "03": "Secundaria",
+    "4": "Preparatoria",     "04": "Preparatoria",
+    "5": "Normal/Técnica",   "05": "Normal/Técnica",
+    "6": "Normal/Técnica",   "06": "Normal/Técnica",
+    "7": "Profesional (licenciatura)", "07": "Profesional (licenciatura)",
+    "8": "Maestría",         "08": "Maestría",
+    "9": "Doctorado",        "09": "Doctorado",
     "99": "No especificado",
 }
 
@@ -274,7 +274,7 @@ def main():
             mode_edu = EDU_SIMPLIFIED.get(mode_edu_code, "No especificado")
             # Also compute % with professional degree or higher
             higher_ed_weight = sum(
-                edu_counts.get(e, 0) for e in ("7", "8", "9")
+                edu_counts.get(e, 0) for e in ("7", "8", "9", "07", "08", "09")
             )
             total_edu_weight = sum(edu_counts.values())
             pct_professional = (
