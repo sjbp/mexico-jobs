@@ -1,5 +1,7 @@
 # Empleos MX
 
+**[empleos.sebastian.mx](https://empleos.sebastian.mx)**
+
 Visualización interactiva del mercado laboral mexicano como treemap, inspirado en [karpathy/jobs](https://github.com/karpathy/jobs).
 
 **457 ocupaciones** cubriendo **~60M empleos** a partir de microdatos de la ENOE de INEGI (2024 T4). El área de cada rectángulo es proporcional al empleo total. El color muestra la métrica seleccionada.
