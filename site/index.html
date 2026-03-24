@@ -1034,6 +1034,13 @@ canvas.addEventListener("mousemove", (e) => {
 });
 canvas.addEventListener("click", (e) => { /* no external link for now */ });
 canvas.addEventListener("mouseleave", () => { hovered = null; hideTooltip(); draw(); });
+
+canvas.addEventListener("touchstart", (e) => {
+  const t = e.touches[0];
+  const hit = hitTest(t.clientX, t.clientY);
+  if (hit) { e.preventDefault(); hovered = hit; draw(); showTooltip(hit, t.clientX, t.clientY); }
+}, { passive: false });
+canvas.addEventListener("touchend", () => { hovered = null; hideTooltip(); draw(); });
 function resize() { dpr = window.devicePixelRatio || 1; layout(); draw(); }
 
 // ── Legend gradient ────────────────────────────────────────────────────
