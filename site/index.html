@@ -133,12 +133,12 @@ body {
 .hbar-fill { height: 100%; border-radius: 8px; background: var(--accent); }
 .hbar-val { width: 50px; flex-shrink: 0; font-size: 11px; color: var(--text-primary); text-align: right; font-weight: 600; }
 
-.controls-row {
+.methodology-row {
   display: flex;
   align-items: center;
-  gap: 14px;
-  flex-wrap: wrap;
-  margin-bottom: 6px;
+  gap: 16px;
+  margin-top: 10px;
+  margin-bottom: 16px;
 }
 
 .color-toggle {
@@ -174,6 +174,7 @@ body {
   gap: 6px;
   font-size: 11px;
   color: var(--text-muted);
+  flex-shrink: 0;
 }
 .gradient-legend canvas { border-radius: 2px; }
 
@@ -182,7 +183,7 @@ body {
   line-height: 1.6;
   color: var(--text-muted);
   max-width: 700px;
-  margin-bottom: 16px;
+  margin: 0;
   text-wrap: pretty;
   border-left: 2px solid var(--accent);
   padding-left: 16px;
@@ -240,26 +241,26 @@ canvas#canvas {
     <p><b>Datos:</b> Microdatos de la ENOE 2025 T4, procesados con ponderadores de expansi&oacute;n. Clasificaci&oacute;n de ocupaciones: SINCO 2019 (Sistema Nacional de Clasificaci&oacute;n de Ocupaciones) a 4 d&iacute;gitos. Ingresos son auto-reportados (encuesta de hogares, no registros de empleadores).</p>
   </div>
 
-  <div class="controls-row">
-    <div class="stat-section">
-      <h3>M&eacute;trica</h3>
-      <div class="color-toggle" id="colorToggle">
-        <button data-mode="pay" class="active">Ingreso</button>
-        <button data-mode="education">Educaci&oacute;n</button>
-        <button data-mode="formality">Formalidad</button>
-        <button data-mode="health_protection">Protecci&oacute;n en Salud</button>
-        <button data-mode="health_insurance">Seguridad social</button>
-        <button data-mode="exposure">Exposici&oacute;n IA</button>
-      </div>
+  <div class="stat-section">
+    <h3>M&eacute;trica</h3>
+    <div class="color-toggle" id="colorToggle">
+      <button data-mode="pay" class="active">Ingreso</button>
+      <button data-mode="education">Educaci&oacute;n</button>
+      <button data-mode="formality">Formalidad</button>
+      <button data-mode="health_protection">Protecci&oacute;n en Salud</button>
+      <button data-mode="health_insurance">Seguridad social</button>
+      <button data-mode="exposure">Exposici&oacute;n IA</button>
     </div>
+  </div>
+
+  <div class="methodology-row">
+    <p class="methodology" id="methodology"></p>
     <div class="gradient-legend">
       <span id="legendLow">Bajo</span>
       <canvas id="gradientLegend" width="80" height="8"></canvas>
       <span id="legendHigh">Alto</span>
     </div>
   </div>
-
-  <p class="methodology" id="methodology"></p>
 
   <div class="stats-row">
     <div class="stat-section">
@@ -1059,6 +1060,10 @@ document.getElementById("colorToggle").addEventListener("click", (e) => {
   draw();
   requestAnimationFrame(resize);
 });
+
+// ── Init ────────────────────────────────────────────────────────────────
+updateMethodology();
+drawGradientLegend();
 
 // ── Load ───────────────────────────────────────────────────────────────
 
