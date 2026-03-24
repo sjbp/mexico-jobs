@@ -627,12 +627,19 @@ function showTooltip(d, mx, my) {
     <span class="label">Exposici\u00f3n IA</span><span class="value">${d.exposure != null ? d.exposure + '/10' : '\u2014'}</span>`;
   tt.querySelector(".tt-stats").innerHTML = statsHTML;
   tt.querySelector(".tt-rationale").textContent = colorMode === "exposure" ? (d.exposure_rationale || "") : "";
-  const ttW = Math.min(380, window.innerWidth - 24);
-  let tx = mx + 16, ty = my - 16;
-  if (tx + ttW > window.innerWidth - 12) tx = Math.max(12, window.innerWidth - ttW - 12);
-  if (ty < 10) ty = my + 16;
-  if (ty + 250 > window.innerHeight) ty = my - 250;
-  tt.style.left = tx + "px"; tt.style.top = ty + "px";
+  const isMobile = window.innerWidth < 600;
+  if (isMobile) {
+    tt.style.left = "12px"; tt.style.right = "12px"; tt.style.width = "auto";
+    tt.style.bottom = "12px"; tt.style.top = "auto";
+  } else {
+    tt.style.right = ""; tt.style.width = ""; tt.style.bottom = "";
+    const ttW = Math.min(380, window.innerWidth - 24);
+    let tx = mx + 16, ty = my - 16;
+    if (tx + ttW > window.innerWidth - 12) tx = Math.max(12, window.innerWidth - ttW - 12);
+    if (ty < 10) ty = my + 16;
+    if (ty + 250 > window.innerHeight) ty = my - 250;
+    tt.style.left = tx + "px"; tt.style.top = ty + "px";
+  }
   tt.classList.add("visible");
 }
 function hideTooltip() { document.getElementById("tooltip").classList.remove("visible"); }
